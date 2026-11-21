@@ -1,0 +1,2433 @@
+[
+  {
+    "id": 1,
+    "sku": "MT-10421",
+    "brand": "Apple",
+    "name": "Apple MacBook Air 13.6\" M2 256GB Midnight (MLY33)",
+    "category": "Ноутбуки",
+    "price": 43999,
+    "oldPrice": 47999,
+    "image": "https://i.moyo.ua/img/products/7376/99_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7376/99_600.jpg",
+      "https://i.moyo.ua/img/gallery/7376/99/3471528_main.jpg",
+      "https://i.moyo.ua/img/gallery/7376/99/3471527_main.jpg",
+      "https://i.moyo.ua/img/gallery/7376/99/3471532_main.jpg",
+      "https://i.moyo.ua/img/gallery/7376/99/3471531_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Apple MacBook Air 13.6 на базі чіпа M2 створений у суцільнометалевому алюмінієвому корпусі товщиною лише 11.3 мм. Дисплей Liquid Retina з яскравістю 500 ніт і підтримкою 1 мільярда кольорів забезпечує чітке зображення, а безвентиляторна конструкція гарантує абсолютно безшумну роботу під час будь-яких навантажень.",
+    "specs": {
+      "Серія": "Apple MacBook Air",
+      "Діагональ екрана": "13.6\" (2560x1664) Liquid Retina",
+      "Тип матриці": "IPS з LED-підсвіткою (500 ніт, True Tone)",
+      "Частота оновлення екрана": "60 Гц",
+      "Процесор": "Apple M2 (8 ядер CPU / 8 ядер GPU / 16 ядер Neural Engine)",
+      "Оперативна пам'ять": "8 ГБ Unified Memory",
+      "Пропускна здатність пам'яті": "100 ГБ/с",
+      "Обсяг накопичувача": "256 ГБ SSD NVMe",
+      "Відеокарта": "Інтегрована Apple M2 Graphics (8 ядер)",
+      "Веб-камера": "FaceTime HD 1080p",
+      "Аудіосистема": "4 динаміки з підтримкою Spatial Audio та Dolby Atmos, 3 мікрофони",
+      "Бездротові інтерфейси": "Wi-Fi 6 (802.11ax), Bluetooth 5.3",
+      "Роз'єми та порти": "2 x Thunderbolt / USB 4, MagSafe 3, 3.5 мм аудіороз'єм",
+      "Клавіатура": "Magic Keyboard з підсвіткою та датчиком Touch ID",
+      "Акумулятор": "Літій-полімерний 52.6 Вт·год (до 18 годин роботи)",
+      "Операційна система": "macOS",
+      "Матеріал корпусу": "Перероблений анодований алюміній",
+      "Габарити (Ш х Г х В)": "304.1 x 215 x 11.3 мм",
+      "Вага": "1.24 кг",
+      "Колір": "Midnight (Темна ніч)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "17.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "256 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "13.6\" - 14.2\"",
+      "Лінійка процесора": "Apple M2 / M3",
+      "Частота оновлення": "60 Гц"
+    }
+  },
+  {
+    "id": 2,
+    "sku": "MT-10489",
+    "brand": "ASUS",
+    "name": "ASUS ROG Zephyrus G14 16GB / 1TB SSD Eclipse Gray",
+    "category": "Ноутбуки",
+    "price": 62499,
+    "oldPrice": null,
+    "image": "https://i.moyo.ua/img/products/7514/73_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7514/73_600.jpg",
+      "https://i.moyo.ua/img/gallery/7514/73/4489750_main.jpg",
+      "https://i.moyo.ua/img/gallery/7514/73/3569148_main.jpg",
+      "https://i.moyo.ua/img/gallery/7514/73/3569149_main.jpg",
+      "https://i.moyo.ua/img/gallery/7514/73/3569150_main.jpg"
+    ],
+    "badge": "Новинка",
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "ASUS ROG Zephyrus G14 поєднує потужність повноцінної ігрової станції та портативність 14-дюймового ультрабука. Оснащений преміальним дисплеєм ROG Nebula зі співвідношенням сторін 16:10, системою охолодження з випарною камерою та рідким металом.",
+    "specs": {
+      "Серія": "ASUS Republic of Gamers (ROG Zephyrus)",
+      "Діагональ екрана": "14.0\" (2560x1600) WQXGA 16:10",
+      "Тип матриці": "IPS-level ROG Nebula Display, 100% DCI-P3, Pantone Validated",
+      "Частота оновлення екрана": "165 Гц (3 мс, G-Sync)",
+      "Процесор": "AMD Ryzen 9 7940HS (8 ядер / 16 потоків, 4.0 - 5.2 ГГц)",
+      "Оперативна пам'ять": "16 ГБ DDR5-4800 МГц",
+      "Максимальний обсяг ОЗП": "32 ГБ",
+      "Обсяг накопичувача": "1 ТБ M.2 NVMe PCIe 4.0 SSD",
+      "Дискретна відеокарта": "NVIDIA GeForce RTX 4060 Laptop GPU, 8 ГБ GDDR6 (MUX Switch)",
+      "Система охолодження": "ROG Intelligent Cooling з рідким металом Thermal Grizzly",
+      "Веб-камера": "1080p FHD IR-камера з підтримкою Windows Hello",
+      "Аудіосистема": "4 динаміки (2 високочастотні + 2 низькочастотні), Dolby Atmos",
+      "Бездротові технології": "Wi-Fi 6E (802.11ax) Triple Band, Bluetooth 5.3",
+      "Порти підключення": "1 x USB4, 1 x USB 3.2 Gen 2 Type-C, 2 x USB 3.2 Gen 2 Type-A, HDMI 2.1, MicroSD",
+      "Акумулятор": "76 Вт·год, швидка зарядка USB-C 100W",
+      "Операційна система": "Windows 11 Home",
+      "Габарити (Ш х Г х В)": "312 x 227 x 18.5 мм",
+      "Вага": "1.65 кг",
+      "Колір": "Eclipse Gray (Темно-сірий)"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "10.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "1 ТБ",
+      "Оперативна пам'ять": "16 ГБ",
+      "Діагональ екрана": "13.6\" - 14.2\"",
+      "Лінійка процесора": "AMD Ryzen",
+      "Частота оновлення": "165 - 180 Гц"
+    }
+  },
+  {
+    "id": 3,
+    "sku": "MT-10512",
+    "brand": "Lenovo",
+    "name": "Lenovo ThinkPad E14 Gen 5 (21JK0009RA) Black",
+    "category": "Ноутбуки",
+    "price": 31999,
+    "oldPrice": 34500,
+    "image": "https://i.moyo.ua/img/products/8687/11_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/8687/11_600.jpg",
+      "https://i.moyo.ua/img/gallery/8687/11/4377215_main.jpg",
+      "https://i.moyo.ua/img/gallery/8687/11/4377220_main.jpg",
+      "https://i.moyo.ua/img/gallery/8687/11/4377221_main.jpg",
+      "https://i.moyo.ua/img/gallery/8687/11/4377223_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Lenovo ThinkPad E14 п'ятого покоління розроблений для щоденної роботи, програмування та бізнес-завдань. Має матовий IPS-екран формату 16:10, легендарний маніпулятор TrackPoint, апаратний модуль шифрування TPM 2.0 та захист за військовим стандартом MIL-STD-810H.",
+    "specs": {
+      "Серія": "Lenovo ThinkPad Edge",
+      "Діагональ екрана": "14.0\" (1920x1200) WUXGA 16:10",
+      "Покриття екрана": "Антивідблискове (матове), IPS 300 ніт",
+      "Процесор": "Intel Core i5-1335U (10 ядер / 12 потоків, до 4.6 ГГц)",
+      "Оперативна пам'ять": "16 ГБ DDR4-3200 МГц",
+      "Обсяг накопичувача": "512 ГБ SSD M.2 2242 PCIe 4.0x4 NVMe",
+      "Додатковий слот SSD": "Вільний слот M.2 2280 PCIe 4.0",
+      "Відеокарта": "Інтегрована Intel Iris Xe Graphics",
+      "Мережеві адаптери": "Wi-Fi 6 (Intel AX201), Bluetooth 5.1, Gigabit Ethernet (RJ-45)",
+      "Роз'єми": "1 x Thunderbolt 4, 1 x USB-C 3.2 Gen 2, 1 x USB 3.2 Gen 1, 1 x USB 2.0, HDMI 2.1, RJ-45",
+      "Безпека": "Сканер відбитка пальця у кнопці живлення, модуль dTPM 2.0, шторка камери",
+      "Аудіо": "Стереодинаміки 2x2 Вт Harman, Dolby Atmos",
+      "Клавіатура": "Вологозахищена з підсвіткою та джойстиком TrackPoint",
+      "Акумулятор": "47 Вт·год (підтримка Rapid Charge - 80% за 60 хв)",
+      "Матеріал корпусу": "Алюмінієва кришка, посилений полікарбонат (MIL-STD-810H)",
+      "Габарити": "313 x 219.3 x 17.99 мм",
+      "Вага": "1.43 кг",
+      "Колір": "Graphite Black (Чорний)"
+    },
+    "rating": 4.7,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Богдан Романенко",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Марія Шевченко",
+        "rating": 4,
+        "date": "28.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "16 ГБ",
+      "Діагональ екрана": "13.6\" - 14.2\"",
+      "Лінійка процесора": "Intel Core i5",
+      "Частота оновлення": "60 Гц"
+    }
+  },
+  {
+    "id": 4,
+    "sku": "MT-10601",
+    "brand": "Apple",
+    "name": "Apple MacBook Pro 14\" M3 512GB Space Gray (MTL73)",
+    "category": "Ноутбуки",
+    "price": 72999,
+    "oldPrice": 76999,
+    "image": "https://i.moyo.ua/img/products/7377/22_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7377/22_600.jpg",
+      "https://i.moyo.ua/img/gallery/7377/22/3470337_main.jpg",
+      "https://i.moyo.ua/img/gallery/7377/22/3470342_main.jpg",
+      "https://i.moyo.ua/img/gallery/7377/22/3470339_main.jpg",
+      "https://i.moyo.ua/img/gallery/7377/22/3470341_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Професійний ноутбук Apple MacBook Pro 14 на архітектурі Apple M3 (3 нм) з дисплеєм Liquid Retina XDR mini-LED, частотою ProMotion 120 Гц, піковою яскравістю 1600 ніт та автономністю до 22 годин на одному заряді.",
+    "specs": {
+      "Серія": "Apple MacBook Pro",
+      "Діагональ екрана": "14.2\" (3024x1964) Liquid Retina XDR",
+      "Технологія матриці": "Mini-LED, ProMotion 120 Гц, контрастність 1 000 000:1",
+      "Яскравість": "1000 ніт постійна XDR, 1600 ніт пікова HDR",
+      "Процесор": "Apple M3 (8 ядер CPU / 10 ядер GPU / апаратний Ray Tracing)",
+      "Оперативна пам'ять": "8 ГБ Unified Memory",
+      "Обсяг накопичувача": "512 ГБ SSD NVMe",
+      "Аудіосистема": "6 динаміків Hi-Fi з низькочастотними випромінювачами, Spatial Audio",
+      "Мікрофони": "Студійна система з 3 спрямованих мікрофонів",
+      "Бездротові технології": "Wi-Fi 6E (802.11ax), Bluetooth 5.3",
+      "Порти": "2 x Thunderbolt / USB 4, HDMI 2.1, слот SDXC, MagSafe 3, 3.5 мм аудіо",
+      "Акумулятор": "Літій-полімерний 70 Вт·год (до 22 годин відтворення відео)",
+      "Адаптер живлення": "70W USB-C Power Adapter",
+      "Операційна система": "macOS Sonoma",
+      "Габарити": "312.6 x 221.2 x 15.5 мм",
+      "Вага": "1.55 кг",
+      "Колір": "Space Gray (Сірий космос)"
+    },
+    "rating": 5,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Ігор Мельник",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 4,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "15.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "13.6\" - 14.2\"",
+      "Лінійка процесора": "Apple M2 / M3",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 5,
+    "sku": "MT-10644",
+    "brand": "Acer",
+    "name": "Acer Nitro V 15 ANV15-51 (NH.QNBAA.001) Obsidian Black",
+    "category": "Ноутбуки",
+    "price": 38499,
+    "oldPrice": 41999,
+    "image": "https://i.moyo.ua/img/products/8224/26_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/8224/26_600.jpg",
+      "https://i.moyo.ua/img/gallery/8224/26/3863644_main.jpg",
+      "https://i.moyo.ua/img/gallery/8224/26/3863643_main.jpg",
+      "https://i.moyo.ua/img/gallery/8224/26/3863641_main.jpg",
+      "https://i.moyo.ua/img/gallery/8224/26/3863640_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Ігровий ноутбук Acer Nitro V 15 з процесором Intel Core i5 13-го покоління та відеокартою GeForce RTX 4050 забезпечує високу частоту кадрів у сучасних іграх на Full HD дисплеї з частотою оновлення 144 Гц.",
+    "specs": {
+      "Серія": "Acer Nitro V 15",
+      "Діагональ екрана": "15.6\" (1920x1080) Full HD IPS",
+      "Частота оновлення": "144 Гц, матове покриття ComfyView",
+      "Процесор": "Intel Core i5-13420H (8 ядер / 12 потоків, до 4.6 ГГц)",
+      "Оперативна пам'ять": "16 ГБ DDR5-5200 МГц (2 слоти SO-DIMM)",
+      "Накопичувач": "512 ГБ PCIe Gen4 NVMe SSD (2 слоти M.2)",
+      "Дискретна відеокарта": "NVIDIA GeForce RTX 4050, 6 ГБ GDDR6 (DLSS 3)",
+      "Охолодження": "2 вентилятори з утилітою керування NitroSense",
+      "Мережа": "Wi-Fi 6 (802.11ax) 2x2 MU-MIMO, Bluetooth 5.1, Gigabit LAN",
+      "Роз'єми": "1 x Thunderbolt 4 (USB-C), 3 x USB 3.2 Gen 1, HDMI 2.1, RJ-45, 3.5 мм",
+      "Звук": "Стереодинаміки з технологією DTS:X Ultra",
+      "Клавіатура": "Повнорозмірна з цифровим блоком та білою підсвіткою",
+      "Акумулятор": "57 Вт·год (блок живлення 135 Вт)",
+      "Габарити": "362.3 x 239.9 x 23.5 мм",
+      "Вага": "2.11 кг",
+      "Колір": "Obsidian Black (Чорний)"
+    },
+    "rating": 4.8,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Дмитро Бондаренко",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Вікторія Савченко",
+        "rating": 4,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 4,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 5,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "17.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "16 ГБ",
+      "Діагональ екрана": "15.6\"",
+      "Лінійка процесора": "Intel Core i5",
+      "Частота оновлення": "144 Гц"
+    }
+  },
+  {
+    "id": 6,
+    "sku": "MT-10688",
+    "brand": "HP",
+    "name": "HP Pavilion 15-eh3000 (8F914EA) Natural Silver",
+    "category": "Ноутбуки",
+    "price": 26999,
+    "oldPrice": null,
+    "image": "https://i.moyo.ua/img/products/5434/39_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/5434/39_600.jpg",
+      "https://i.moyo.ua/img/gallery/5434/39/1641898_main.jpg",
+      "https://i.moyo.ua/img/gallery/5434/39/1641897_main.jpg",
+      "https://i.moyo.ua/img/gallery/5434/39/1641893_main.jpg",
+      "https://i.moyo.ua/img/gallery/5434/39/1641895_main.jpg"
+    ],
+    "badge": null,
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Універсальний ноутбук HP Pavilion 15 у металізованому корпусі Natural Silver з тонкою рамкою Micro-Edge, аудіосистемою Bang & Olufsen і шестиядерним процесором AMD Ryzen 5 серії 7000.",
+    "specs": {
+      "Серія": "HP Pavilion 15",
+      "Діагональ екрана": "15.6\" (1920x1080) Full HD IPS Micro-Edge",
+      "Яскравість та покриття": "250 ніт, антивідблискове покриття",
+      "Процесор": "AMD Ryzen 5 7530U (6 ядер / 12 потоків, 2.0 - 4.5 ГГц)",
+      "Оперативна пам'ять": "16 ГБ DDR4-3200 МГц (2 x 8 ГБ)",
+      "Накопичувач": "512 ГБ PCIe NVMe M.2 SSD",
+      "Відеокарта": "Інтегрована AMD Radeon Graphics",
+      "Аудіосистема": "Акустика B&O (Bang & Olufsen), технологія HP Audio Boost",
+      "Веб-камера": "HP Wide Vision 720p HD з двома мікрофонами",
+      "Бездротовий зв'язок": "Realtek Wi-Fi 6 (2x2) та Bluetooth 5.3",
+      "Інтерфейси": "1 x USB Type-C (10 Гбіт/с, Power Delivery, DisplayPort 1.4), 2 x USB Type-A, HDMI 2.1",
+      "Акумулятор": "3-елементний, 41 Вт·год (до 8.5 годин автономної роботи)",
+      "Швидка зарядка": "HP Fast Charge (50% за 45 хвилин)",
+      "Габарити": "360.2 x 234 x 17.9 мм",
+      "Вага": "1.75 кг",
+      "Колір": "Natural Silver (Сріблястий)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "21.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "16 ГБ",
+      "Діагональ екрана": "15.6\"",
+      "Лінійка процесора": "AMD Ryzen",
+      "Частота оновлення": "60 Гц"
+    }
+  },
+  {
+    "id": 7,
+    "sku": "MT-20105",
+    "brand": "Apple",
+    "name": "Apple iPhone 15 Pro 128GB Natural Titanium (MTV03)",
+    "category": "Смартфони",
+    "price": 41999,
+    "oldPrice": 44999,
+    "image": "https://i.moyo.ua/img/products/6504/73_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/6504/73_600.jpg",
+      "https://i.moyo.ua/img/gallery/6504/73/2960606_main.jpg",
+      "https://i.moyo.ua/img/gallery/6504/73/2960603_main.jpg",
+      "https://i.moyo.ua/img/gallery/6504/73/2960605_main.jpg",
+      "https://i.moyo.ua/img/gallery/6504/73/2960609_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Apple iPhone 15 Pro виконаний із легкого та надміцного титанового сплаву класу 5 з матовою текстурою заднього скла. Оснащений портом USB Type-C з підтримкою швидкості USB 3, дисплеєм Super Retina XDR з частотою ProMotion 120 Гц та трикратною оптичною телефотокамерою.",
+    "specs": {
+      "Діагональ дисплея": "6.1\" (2556x1179) Super Retina XDR OLED, 460 ppi",
+      "Частота оновлення": "Адаптивна ProMotion від 1 до 120 Гц, Always-On Display",
+      "Пікова яскравість": "1000 ніт стандартна, 1600 ніт HDR, 2000 ніт на сонці",
+      "Процесор": "Apple A17 Pro (3 нм, 6 ядер CPU, 6 ядер GPU, 16 ядер Neural Engine)",
+      "Оперативна пам'ять": "8 ГБ LPDDR5",
+      "Вбудована пам'ять": "128 ГБ NVMe",
+      "Основна камера": "48 Мп (f/1.78, OIS другого покоління) + 12 Мп телефото (3x зум) + 12 Мп ультраширока (120°)",
+      "Запис відео": "4K 60 fps, ProRes, Dolby Vision HDR, кінематографічний режим",
+      "Фронтальна камера": "12 Мп TrueDepth (f/1.9) з автофокусом та Face ID",
+      "Кількість SIM-карт": "Nano-SIM + eSIM (або дві активні eSIM)",
+      "Бездротові комунікації": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC, Ultra Wideband 2, GPS L1+L5",
+      "Роз'єм підключення": "USB Type-C (USB 3.2 Gen 2 до 10 Гбіт/с, DisplayPort)",
+      "Захист корпусу": "Титан Grade 5, скло Ceramic Shield, стандарт IP68 (занурення до 6 м)",
+      "Заряджання": "Швидка зарядка 20W+, бездротова MagSafe 15W та Qi2",
+      "Габарити": "146.6 x 70.6 x 8.25 мм",
+      "Вага": "187 г",
+      "Колір": "Natural Titanium (Натуральний титан)"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Андрій Лисенко",
+        "rating": 5,
+        "date": "19.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "128 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "6.1\" - 6.36\"",
+      "Лінійка процесора": "Apple A17 / A18 Pro",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 8,
+    "sku": "MT-20199",
+    "brand": "Apple",
+    "name": "Apple iPhone 16 Pro 128GB Black Titanium (MYND3)",
+    "category": "Смартфони",
+    "price": 51999,
+    "oldPrice": null,
+    "image": "https://i.moyo.ua/img/products/7506/2_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7506/2_600.jpg",
+      "https://i.moyo.ua/img/gallery/7506/2/3531458_main.jpg",
+      "https://i.moyo.ua/img/gallery/7506/2/3531459_main.jpg",
+      "https://i.moyo.ua/img/gallery/7506/2/3531462_main.jpg",
+      "https://i.moyo.ua/img/gallery/7506/2/3531464_main.jpg"
+    ],
+    "badge": "Новинка",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Новітній флагман Apple iPhone 16 Pro зі збільшеним 6.3-дюймовим дисплеєм, сенсорною кнопкою керування камерою Camera Control, чіпом A18 Pro, 5-кратним оптичним зумом тетрапризми та записом відео 4K 120 кадрів/с у Dolby Vision.",
+    "specs": {
+      "Діагональ дисплея": "6.3\" (2622x1206) Super Retina XDR OLED, 460 ppi",
+      "Частота оновлення": "ProMotion 1-120 Гц, Always-On Display",
+      "Процесор": "Apple A18 Pro (3 нм другого покоління, 6 ядер CPU / 6 ядер GPU)",
+      "Оперативна пам'ять": "8 ГБ",
+      "Вбудована пам'ять": "128 ГБ",
+      "Основна камера": "48 Мп Fusion + 48 Мп ультраширока + 12 Мп телефото (5x оптичний зум)",
+      "Запис відео": "4K 120 fps Dolby Vision, ProRes Log, просторове аудіо з 4 студійними мікрофонами",
+      "Елементи керування": "Кнопка дії Action Button + сенсорна клавіша Camera Control",
+      "Комунікації": "5G, Wi-Fi 7 (802.11be), Bluetooth 5.3, NFC, Dual GPS",
+      "Акумулятор": "До 27 годин відтворення відео, MagSafe до 25 Вт",
+      "Матеріали": "Титан Grade 5 з мікроструменевою обробкою, Ceramic Shield 2024",
+      "Вологозахист": "IP68 (до 6 метрів до 30 хвилин)",
+      "Роз'єм": "USB Type-C (USB 3 до 10 Гбіт/с)",
+      "Габарити": "149.6 x 71.5 x 8.25 мм",
+      "Вага": "199 г",
+      "Колір": "Black Titanium (Чорний титан)"
+    },
+    "rating": 5,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Володимир Поліщук",
+        "rating": 5,
+        "date": "14.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "128 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "6.1\" - 6.36\"",
+      "Лінійка процесора": "Apple A17 / A18 Pro",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 9,
+    "sku": "MT-20318",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S24 8/256GB Onyx Black (SM-S921B)",
+    "category": "Смартфони",
+    "price": 33999,
+    "oldPrice": 36499,
+    "image": "https://touch.com.ua/upload/iblock/7c9/9yrj0xy9twh35ou2wfcyec8kq5gx7b3b.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/7c9/9yrj0xy9twh35ou2wfcyec8kq5gx7b3b.jpg",
+      "https://touch.com.ua/upload/iblock/0fc/aiy01qmzsru6l1xy9a568gwe303r961j.jpg",
+      "https://touch.com.ua/upload/iblock/caa/qytyff2r7gn8rq7w7xb7edk9pv4k73ue.jpg",
+      "https://touch.com.ua/upload/iblock/d0a/85xbqkrrwn6hly6po53fbwcs1jieknnu.jpg",
+      "https://touch.com.ua/upload/iblock/e0f/zz1p8asy7k2i36cba2og1wjr9xcz5lq0.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Samsung Galaxy S24 відкриває нові можливості мобільного штучного інтелекту Galaxy AI: миттєвий синхронний переклад дзвінків, інтелектуальне редагування фото та пошук Circle to Search. Рамка з армованого алюмінію Armor Aluminum і скло Gorilla Glass Victus 2 забезпечують довговічність.",
+    "specs": {
+      "Дисплей": "6.2\" (2340x1080) FHD+ Dynamic AMOLED 2X",
+      "Частота оновлення": "Адаптивна LTPO від 1 до 120 Гц, яскравість до 2600 ніт",
+      "Процесор": "Samsung Exynos 2400 (10 ядер, 4 нм, графіка Xclipse 940)",
+      "Оперативна пам'ять": "8 ГБ LPDDR5X",
+      "Вбудована пам'ять": "256 ГБ UFS 4.0",
+      "Основна камера": "50 Мп (f/1.8, OIS) + 10 Мп телефото (3x оптичний зум, OIS) + 12 Мп ультраширока",
+      "Запис відео": "8K 30 fps, 4K 60 fps, HDR10+",
+      "Фронтальна камера": "12 Мп (f/2.2, Dual Pixel AF)",
+      "SIM-карти": "2 x Nano-SIM + підтримка eSIM",
+      "Бездротові технології": "5G, Wi-Fi 6E, Bluetooth 5.3, NFC, Samsung DeX",
+      "Безпека": "Ультразвуковий підекранний сканер відбитка пальця, Samsung Knox",
+      "Акумулятор": "4000 мА·год (швидка зарядка 25 Вт, бездротова 15 Вт, реверсивна 4.5 Вт)",
+      "Захист корпусу": "IP68, рамка Armor Aluminum 2, скло Gorilla Glass Victus 2",
+      "Габарити": "147.0 x 70.6 x 7.6 мм",
+      "Вага": "167 г",
+      "Колір": "Onyx Black (Чорний онікс)"
+    },
+    "rating": 4.8,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Богдан Романенко",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Марія Шевченко",
+        "rating": 4,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "05.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "256 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "6.1\" - 6.36\"",
+      "Лінійка процесора": "Samsung Exynos",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 10,
+    "sku": "MT-20355",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S24 Ultra 12/512GB Titanium Gray (SM-S928B)",
+    "category": "Смартфони",
+    "price": 55999,
+    "oldPrice": 59999,
+    "image": "https://touch.com.ua/upload/iblock/cd0/4thfqsyru93migp1etxw51f13azkzaa4.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/cd0/4thfqsyru93migp1etxw51f13azkzaa4.jpg",
+      "https://touch.com.ua/upload/iblock/f41/cs1ou24i0tv711rrkhyr160ne4rr4slf.jpg",
+      "https://touch.com.ua/upload/iblock/70c/gt1tc8mgo6ut6wc8p3k39r739pnob7g9.jpg",
+      "https://touch.com.ua/upload/iblock/2cb/17sgia8bwzqbc6syigkhps96tn80rjua.jpg",
+      "https://touch.com.ua/upload/iblock/20b/jv0kkyefebe9g4s34jvy8ipux4t2da1k.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Безкомпромісний флагман Samsung Galaxy S24 Ultra у титановому корпусі з вбудованим електронним пером S Pen, антивідблисковим склом Corning Gorilla Armor, процесором Snapdragon 8 Gen 3 for Galaxy та системою квадрокамер на 200 Мп.",
+    "specs": {
+      "Дисплей": "6.8\" (3120x1440) QHD+ Dynamic AMOLED 2X, 505 ppi",
+      "Захисне скло": "Corning Gorilla Armor (зменшує відблиски на 75%)",
+      "Частота оновлення": "LTPO 1-120 Гц, пікова яскравість 2600 ніт",
+      "Процесор": "Qualcomm Snapdragon 8 Gen 3 for Galaxy (до 3.39 ГГц)",
+      "Пам'ять": "12 ГБ LPDDR5X / 512 ГБ UFS 4.0",
+      "Основна камера": "200 Мп (OIS) + 50 Мп перископ (5x зум) + 10 Мп телефото (3x зум) + 12 Мп ультраширока",
+      "Зум": "Оптичний 3x та 5x, оптичної якості 2x та 10x, цифровий Space Zoom 100x",
+      "Стилус у комплекті": "Вбудований S Pen з Bluetooth та затримкою 2.8 мс",
+      "Комунікації": "5G, Wi-Fi 7, Bluetooth 5.3, Ultra Wideband (UWB), NFC",
+      "Акумулятор": "5000 мА·год, швидка зарядка Super Fast Charging 2.0 (45 Вт)",
+      "Матеріал корпусу": "Титанова рамка, водозахист IP68",
+      "Габарити": "162.3 x 79.0 x 8.6 мм",
+      "Вага": "232 г",
+      "Колір": "Titanium Gray (Сірий титан)"
+    },
+    "rating": 5,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Ігор Мельник",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 5,
+        "author": "Богдан Романенко",
+        "rating": 5,
+        "date": "21.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "12 ГБ",
+      "Діагональ екрана": "6.7\" - 6.8\"",
+      "Лінійка процесора": "Qualcomm Snapdragon",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 11,
+    "sku": "MT-20440",
+    "brand": "Google",
+    "name": "Google Pixel 8 8/128GB Obsidian (GA04803)",
+    "category": "Смартфони",
+    "price": 24999,
+    "oldPrice": 27499,
+    "image": "https://touch.com.ua/upload/iblock/407/v39mcd320yg4ad31lz5077pi0676v1ve.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/407/v39mcd320yg4ad31lz5077pi0676v1ve.jpg",
+      "https://touch.com.ua/upload/iblock/faa/t6ak3lof0izpn9uzdclcvf5imbjnyj8a.jpg",
+      "https://touch.com.ua/upload/iblock/f5d/m5w0wfbfyzovypxkqdsjgtvnluifh33m.jpg",
+      "https://touch.com.ua/upload/iblock/75d/8vlzzslfi40bfqa22zyu4jdnq8usi3cs.jpg",
+      "https://touch.com.ua/upload/iblock/e0f/j7036a59ialky6bpe13y2ormdozorcnd.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців гарантії",
+    "fullDescription": "Google Pixel 8 створений для поціновувачів чистого Android та еталонної мобільної фотографії. Інструменти обробки фото Best Take, Magic Eraser та Night Sight дозволяють отримувати студійні кадри в будь-яких умовах освітлення.",
+    "specs": {
+      "Дисплей": "6.2\" (2400x1080) Actua OLED, 428 ppi, HDR",
+      "Частота оновлення": "60-120 Гц, пікова яскравість до 2000 ніт",
+      "Процесор": "Google Tensor G3 (9 ядер) + чіп безпеки Titan M2",
+      "Оперативна пам'ять": "8 ГБ LPDDR5X",
+      "Вбудована пам'ять": "128 ГБ UFS 3.1",
+      "Основна камера": "50 Мп Octa PD (f/1.68, OIS, 1/1.31\") + 12 Мп ультраширока з автофокусом (Макро)",
+      "Фронтальна камера": "10.5 Мп Dual PD (f/2.2, кут огляду 95°)",
+      "Відеозйомка": "4K 60 fps на основну та фронтальну камери, Audio Magic Eraser",
+      "Підтримка оновлень": "7 років оновлень ОС Android та патчів безпеки",
+      "Мережі": "5G Sub-6, Wi-Fi 7 (802.11be), Bluetooth 5.3, NFC, Google Cast",
+      "Акумулятор": "4575 мА·год, швидка зарядка 27 Вт, бездротова Qi 18 Вт",
+      "Захист": "IP68, скло Corning Gorilla Glass Victus спереду та ззаду",
+      "Габарити": "150.5 x 70.8 x 8.9 мм",
+      "Вага": "187 г",
+      "Колір": "Obsidian (Чорний обсидіан)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "10.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "128 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "6.1\" - 6.36\"",
+      "Лінійка процесора": "Google Tensor",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 12,
+    "sku": "MT-20510",
+    "brand": "Xiaomi",
+    "name": "Xiaomi 14 12/512GB Black",
+    "category": "Смартфони",
+    "price": 34999,
+    "oldPrice": 37999,
+    "image": "https://i.moyo.ua/img/products/7826/45_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7826/45_600.jpg",
+      "https://i.moyo.ua/img/gallery/7826/45/3732574_main.jpg",
+      "https://i.moyo.ua/img/gallery/7826/45/3732577_main.jpg",
+      "https://i.moyo.ua/img/gallery/7826/45/3732576_main.jpg",
+      "https://i.moyo.ua/img/gallery/7826/45/3732578_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Компактний флагман Xiaomi 14 з оптикою Leica Summilux наступного покоління, сенсором Light Fusion 900, процесором Snapdragon 8 Gen 3 та надшвидкою зарядкою HyperCharge 90 Вт, що заряджає смартфон до 100% за 31 хвилину.",
+    "specs": {
+      "Дисплей": "6.36\" (2670x1200) 1.5K CrystalRes LTPO AMOLED, 460 ppi",
+      "Частота та яскравість": "1-120 Гц, пікова яскравість 3000 ніт, Dolby Vision",
+      "Процесор": "Qualcomm Snapdragon 8 Gen 3 (4 нм, до 3.3 ГГц)",
+      "Оперативна пам'ять": "12 ГБ LPDDR5X (8533 Мбіт/с)",
+      "Вбудована пам'ять": "512 ГБ UFS 4.0",
+      "Камера Leica": "50 Мп Light Fusion 900 (f/1.6, OIS) + 50 Мп плаваючий телеоб'єктив 75 мм (OIS) + 50 Мп ультраширока",
+      "Фронтальна камера": "32 Мп (запис відео 4K 60 fps з HDR10+)",
+      "Звук": "Стереодинаміки Dolby Atmos, масив із 4 мікрофонів",
+      "Комунікації": "5G, Wi-Fi 7, Bluetooth 5.4, NFC, ІЧ-порт",
+      "Роз'єм": "USB Type-C (USB 3.2 Gen 1 до 5 Гбіт/с)",
+      "Акумулятор": "4610 мА·год, дротова зарядка 90 Вт (адаптер у комплекті), бездротова 50 Вт",
+      "Захист корпусу": "IP68, Gorilla Glass Victus",
+      "Габарити": "152.8 x 71.5 x 8.2 мм",
+      "Вага": "193 г",
+      "Колір": "Black (Чорний матовий)"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Олена Кравченко",
+        "rating": 5,
+        "date": "28.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "12 ГБ",
+      "Діагональ екрана": "6.1\" - 6.36\"",
+      "Лінійка процесора": "Qualcomm Snapdragon",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 13,
+    "sku": "MT-20572",
+    "brand": "Motorola",
+    "name": "Motorola Edge 50 Pro 12/512GB Black Beauty",
+    "category": "Смартфони",
+    "price": 22999,
+    "oldPrice": null,
+    "image": "https://touch.com.ua/upload/iblock/399/topvj566r4mgpt3wnvyyjseohkygnlf1.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/399/topvj566r4mgpt3wnvyyjseohkygnlf1.jpg",
+      "https://touch.com.ua/upload/iblock/882/gs9kaeupwu2wzuy0eyalg1350vhnfpvf.jpg",
+      "https://touch.com.ua/upload/iblock/47f/v0by94u8rhtwwlpb5g1817l6xkh1mi3s.jpg",
+      "https://touch.com.ua/upload/iblock/cc6/9lso3kjzxdj8jlh9bwmnhj6wtl6j06mn.jpg",
+      "https://touch.com.ua/upload/iblock/852/6gn0ssesm4wphziujwa4dnlwpygx2i03.jpg"
+    ],
+    "badge": "Новинка",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Стильний смартфон Motorola Edge 50 Pro з вигнутим pOLED-екраном 144 Гц (сертифікованим Pantone), оздобленням корпусу з екошкіри, захистом IP68 і надшвидкою зарядкою TurboPower 125 Вт у комплекті.",
+    "specs": {
+      "Дисплей": "6.7\" (2712x1220) Super HD pOLED, 10-біт, HDR10+",
+      "Частота оновлення": "144 Гц, сертифікація кольору Pantone Validated",
+      "Процесор": "Qualcomm Snapdragon 7 Gen 3 (4 нм, до 2.63 ГГц)",
+      "Пам'ять": "12 ГБ LPDDR4X / 512 ГБ UFS 2.2",
+      "Основна камера": "50 Мп (f/1.4, OIS) + 10 Мп телефото (3x оптичний зум, OIS) + 13 Мп ультраширока (Макро)",
+      "Фронтальна камера": "50 Мп (f/1.9) з автофокусом",
+      "Аудіо": "Стереодинаміки з Dolby Atmos та Snapdragon Sound",
+      "Інтерфейси": "5G, Wi-Fi 6E, Bluetooth 5.4, NFC, USB Type-C 3.1 (DisplayPort 1.4)",
+      "Акумулятор": "4500 мА·год, зарядний пристрій 125 Вт у комплекті (100% за 18 хв)",
+      "Бездротова зарядка": "TurboPower 50 Вт + реверсивна 10 Вт",
+      "Матеріали корпусу": "Алюмінієва рамка, веганська екошкіра, водозахист IP68",
+      "Габарити": "161.2 x 72.4 x 8.19 мм",
+      "Вага": "186 г",
+      "Колір": "Black Beauty (Чорний)"
+    },
+    "rating": 4.7,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Андрій Лисенко",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Катерина Павленко",
+        "rating": 4,
+        "date": "15.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "512 ГБ",
+      "Оперативна пам'ять": "12 ГБ",
+      "Діагональ екрана": "6.7\" - 6.8\"",
+      "Лінійка процесора": "Qualcomm Snapdragon",
+      "Частота оновлення": "144 Гц"
+    }
+  },
+  {
+    "id": 14,
+    "sku": "MT-30112",
+    "brand": "Sony",
+    "name": "Навушники Sony WH-1000XM5 Black",
+    "category": "Аудіо",
+    "price": 13499,
+    "oldPrice": 14999,
+    "image": "https://i.moyo.ua/img/products/5252/56_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/5252/56_600.jpg",
+      "https://i.moyo.ua/img/gallery/5252/56/1638214_main.jpg",
+      "https://i.moyo.ua/img/gallery/5252/56/1638218_main.jpg",
+      "https://i.moyo.ua/img/gallery/5252/56/1638211_main.jpg",
+      "https://i.moyo.ua/img/gallery/5252/56/1638216_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Sony WH-1000XM5 використовують два процесори керування вісьмома мікрофонами для безпрецедентного відсікання зовнішнього шуму. Спеціально розроблений 30-міліметровий динамік із вуглецевого волокна забезпечує чисте та деталізоване звучання Hi-Res Audio.",
+    "specs": {
+      "Тип навушників": "Повнорозмірні закриті (Over-Ear)",
+      "Тип підключення": "Бездротові (Bluetooth 5.2) + дротові (AUX 3.5 мм)",
+      "Діаметр мембрани": "30 мм (купол з вуглецевого волокна)",
+      "Процесори шумозаглушення": "Інтегрований процесор Sony V1 + HD-процесор QN1 (8 мікрофонів)",
+      "Частотний діапазон": "4 Гц - 40 000 Гц",
+      "Підтримувані кодеки": "SBC, AAC, LDAC (Hi-Res Audio Wireless), DSEE Extreme",
+      "Функція Multipoint": "Одночасне підключення до 2 пристроїв",
+      "Керування": "Сенсорна панель на правій чаші, датчик автопаузи при знятті",
+      "Час роботи": "До 30 год з увімкненим ANC, до 40 год без ANC",
+      "Швидка зарядка": "USB-PD (3 хвилини зарядки дають 3 години відтворення)",
+      "Комплектація": "Навушники, жорсткий складаний кейс, кабель USB-C, аудіокабель 1.2 м",
+      "Вага": "250 г",
+      "Колір": "Black (Чорний матовий)"
+    },
+    "rating": 5,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Володимир Поліщук",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "17.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аудіопристрою": "Повнорозмірні навушники",
+      "Підключення": "Бездротове (Bluetooth)",
+      "Шумозаглушення (ANC)": "З активним ANC"
+    }
+  },
+  {
+    "id": 15,
+    "sku": "MT-30208",
+    "brand": "Apple",
+    "name": "Навушники Apple AirPods Pro 2 with MagSafe Case (USB-C)",
+    "category": "Аудіо",
+    "price": 9999,
+    "oldPrice": 10999,
+    "image": "https://i.moyo.ua/img/products/6746/59_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/6746/59_600.jpg",
+      "https://i.moyo.ua/img/gallery/6746/59/3141615_main.jpg",
+      "https://i.moyo.ua/img/gallery/6746/59/3141617_main.jpg",
+      "https://i.moyo.ua/img/gallery/6746/59/3141614_main.jpg",
+      "https://i.moyo.ua/img/gallery/6746/59/3141616_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Оновлені AirPods Pro 2-го покоління з роз'ємом USB-C забезпечують удвічі ефективніше активне шумозаглушення, персоналізоване просторове аудіо з динамічним відстеженням рухів голови та сенсорне регулювання гучності безпосередньо на ніжці навушника.",
+    "specs": {
+      "Тип конструкції": "Внутрішньоканальні (TWS вакуумні)",
+      "Аудіочіп": "Apple H2 у навушниках + чіп точного пошуку Apple U1 у кейсі",
+      "Система шумозаглушення": "Активне (ANC), Адаптивна прозорість, Розпізнавання розмови",
+      "Просторовий звук": "Персоналізоване Spatial Audio з відстеженням рухів голови",
+      "Інтерфейс підключення": "Bluetooth 5.3",
+      "Захист від вологи та пилу": "IP54 (для навушників та зарядного кейса)",
+      "Автономність навушників": "До 6 годин прослуховування на одному заряді",
+      "Автономність із кейсом": "До 30 годин прослуховування музики",
+      "Заряджання кейса": "Роз'єм USB Type-C, MagSafe, зарядка від Apple Watch, стандарт Qi",
+      "Особливості кейса": "Вбудований динамік для пошуку через Локатор і петля для шнурка",
+      "Амбушури в комплекті": "4 пари силіконових насадок (XS, S, M, L)",
+      "Вага": "5.3 г кожен навушник, 50.8 г зарядний кейс",
+      "Колір": "White (Білий)"
+    },
+    "rating": 4.8,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Богдан Романенко",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Марія Шевченко",
+        "rating": 4,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 5,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "10.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аудіопристрою": "TWS навушники (вкладиші)",
+      "Підключення": "Бездротове (Bluetooth)",
+      "Шумозаглушення (ANC)": "З активним ANC"
+    }
+  },
+  {
+    "id": 16,
+    "sku": "MT-30490",
+    "brand": "Marshall",
+    "name": "Портативна акустика Marshall Emberton II Black & Brass",
+    "category": "Аудіо",
+    "price": 6499,
+    "oldPrice": 6999,
+    "image": "https://touch.com.ua/upload/iblock/110/e6phlt5f3tok5en5cmg8b8pdv4o4t8fa.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/110/e6phlt5f3tok5en5cmg8b8pdv4o4t8fa.jpg",
+      "https://touch.com.ua/upload/iblock/235/rs45zatytwwryu8n3lbo7s1fczk4wdkd.jpg",
+      "https://touch.com.ua/upload/iblock/2b7/t552p6ogyacua2ax5nyoey5fn94ipci6.jpg",
+      "https://touch.com.ua/upload/iblock/b35/25i4hvc4r9sym8w90dtn3osqznk9phml.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Marshall Emberton II зберігає впізнаваний рок-н-рольний дизайн із металевою решіткою та латунною кнопкою-джойстиком. Завдяки двом 2-дюймовим широкосмуговим динамікам і двом пасивним випромінювачам колонка видає насичений панорамний звук True Stereophonic 360°.",
+    "specs": {
+      "Тип акустики": "Портативна стереоколонка 360° (True Stereophonic)",
+      "Вихідна потужність": "20 Вт (2 x 10 Вт підсилювачі класу D)",
+      "Динаміки": "2 x 2\" повнодіапазонні випромінювачі + 2 пасивні радіатори",
+      "Частотний діапазон": "60 Гц - 20 000 Гц",
+      "Максимальний звуковий тиск": "87 дБ SPL на відстані 1 м",
+      "Бездротовий інтерфейс": "Bluetooth 5.1 (радіус дії до 10 м)",
+      "Режим об'єднання": "Stack Mode (об'єднання кількох колонок Emberton II)",
+      "Налаштування еквалайзера": "Підтримка фірмового додатку Marshall Bluetooth",
+      "Час автономної роботи": "Понад 30 годин відтворення",
+      "Швидка зарядка": "20 хвилин зарядки забезпечують 4 години роботи (повна за 3 год)",
+      "Клас захисту": "IP67 (повний захист від пилу та занурення у воду до 1 м)",
+      "Габарити": "160 x 68 x 76 мм",
+      "Вага": "0.7 кг",
+      "Колір": "Black & Brass (Чорний із латунню)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "19.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аудіопристрою": "Портативна акустика",
+      "Підключення": "Бездротове (Bluetooth)",
+      "Вологозахист": "IP67"
+    }
+  },
+  {
+    "id": 17,
+    "sku": "MT-30522",
+    "brand": "JBL",
+    "name": "Навушники JBL Tune 770NC Black (JBLT770NCBLK)",
+    "category": "Аудіо",
+    "price": 3799,
+    "oldPrice": 4299,
+    "image": "https://i.moyo.ua/img/products/5771/53_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/5771/53_600.jpg",
+      "https://i.moyo.ua/img/gallery/5771/53/2009998_main.jpg",
+      "https://i.moyo.ua/img/gallery/5771/53/2009997_main.jpg",
+      "https://i.moyo.ua/img/gallery/5771/53/2009995_main.jpg",
+      "https://i.moyo.ua/img/gallery/5771/53/2009996_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Легкі складані повнорозмірні навушники JBL Tune 770NC з фірмовим басовим звучанням JBL Pure Bass, адаптивним шумозаглушенням і рекордною автономністю до 70 годин відтворення музики.",
+    "specs": {
+      "Тип навушників": "Повнорозмірні закриті зі складаною конструкцією",
+      "Діаметр динаміка": "40 мм (технологія JBL Pure Bass)",
+      "Частотний діапазон": "20 Гц - 20 000 Гц",
+      "Чутливість та опір": "100 дБ SPL / 32 Ом",
+      "Шумозаглушення": "Адаптивне ANC з режимами Ambient Aware та TalkThru",
+      "Підключення": "Bluetooth 5.3 (підтримка LE Audio, Multipoint) + знімний кабель 3.5 мм",
+      "Автономність": "До 44 годин з ANC, до 70 годин без ANC",
+      "Швидка зарядка": "5 хвилин зарядки = 3 години музики (USB Type-C)",
+      "Фірмовий додаток": "JBL Headphones (еквалайзер, голосові підказки)",
+      "Вага": "232 г",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Дмитро Бондаренко",
+        "rating": 5,
+        "date": "14.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аудіопристрою": "Повнорозмірні навушники",
+      "Підключення": "Бездротове (Bluetooth)",
+      "Шумозаглушення (ANC)": "З активним ANC"
+    }
+  },
+  {
+    "id": 18,
+    "sku": "MT-30580",
+    "brand": "Sennheiser",
+    "name": "Навушники Sennheiser Momentum 4 Wireless Black (509266)",
+    "category": "Аудіо",
+    "price": 12999,
+    "oldPrice": 14499,
+    "image": "https://touch.com.ua/upload/iblock/ead/xiaz69dhs4f66ryt3l2l8xo4osuonhp7.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/ead/xiaz69dhs4f66ryt3l2l8xo4osuonhp7.jpg",
+      "https://touch.com.ua/upload/iblock/44l/44ley7yvuaes3augq707vuhymhdpecgl.jpg",
+      "https://touch.com.ua/upload/iblock/vj1/vj1p1erem06dhqwxquf7nhnrb6u0im70.jpg",
+      "https://touch.com.ua/upload/iblock/rix/rix5l1mkwpfgqg6bf5x7f59ym4hxould.jpg",
+      "https://touch.com.ua/upload/iblock/f1t/f1tgg1c9de6tb3xwkn7v1koxcg03v2ig.jpg"
+    ],
+    "badge": null,
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "Аудіофільські бездротові навушники Sennheiser Momentum 4 з фірмовими 42-міліметровими випромінювачами, підтримкою кодека aptX Adaptive та феноменальним часом автономної роботи до 60 годин з активним шумозаглушенням.",
+    "specs": {
+      "Тип конструкції": "Повнорозмірні закриті",
+      "Випромінювачі": "42 мм динамічні драйвери Sennheiser Audiophile",
+      "Частотний діапазон": "6 Гц - 22 000 Гц",
+      "Підтримувані кодеки": "SBC, AAC, aptX, aptX Adaptive",
+      "Система мікрофонів": "4 цифрові мікрофони Beamforming з придушенням шуму вітру",
+      "Шумозаглушення": "Гібридне адаптивне ANC + режим прозорості",
+      "Бездротовий модуль": "Bluetooth 5.2",
+      "Автономність": "До 60 годин безперервного прослуховування з увімкненим ANC",
+      "Акумулятор": "700 мА·год (швидка зарядка: 10 хв = 6 год роботи)",
+      "Комплектація": "Навушники, твердий чохол, кабель USB-C, аудіокабель 2.5-3.5 мм, адаптер для літака",
+      "Вага": "293 г",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Олена Кравченко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Артем Мороз",
+        "rating": 5,
+        "date": "05.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аудіопристрою": "Повнорозмірні навушники",
+      "Підключення": "Бездротове (Bluetooth)",
+      "Шумозаглушення (ANC)": "З активним ANC"
+    }
+  },
+  {
+    "id": 19,
+    "sku": "MT-30615",
+    "brand": "JBL",
+    "name": "Портативна колонка JBL Charge 5 Black (JBLCHARGE5BLK)",
+    "category": "Аудіо",
+    "price": 5999,
+    "oldPrice": null,
+    "image": "https://touch.com.ua/upload/iblock/9e9/aiy6i22skx8qqnn6lpemln1s13y8y2a8.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/9e9/aiy6i22skx8qqnn6lpemln1s13y8y2a8.jpg",
+      "https://touch.com.ua/upload/iblock/54f/5aa581p763cuwkjyshfimx4lnus8l1yr.jpg",
+      "https://touch.com.ua/upload/iblock/331/mg590j3iop7z35zk7m5hd5hk172iz8oe.jpg",
+      "https://touch.com.ua/upload/iblock/c56/a0wv4lr40kt8mcbbrfkhv6moa434xnah.jpg",
+      "https://touch.com.ua/upload/iblock/1f8/kv1wjmvn2i1kqgjzucsh9e5z1sbdf0nt.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Потужна портативна акустика JBL Charge 5 з окремим високочастотним динаміком, двома басовими радіаторами, захистом від води та пилу IP67 і вбудованим павербанком для підзарядки смартфона під час відпочинку.",
+    "specs": {
+      "Вихідна потужність": "40 Вт RMS (30 Вт НЧ-динамік + 10 Вт ВЧ-твітер)",
+      "Частотний діапазон": "60 Гц - 20 000 Гц",
+      "Співвідношення сигнал/шум": "> 80 дБ",
+      "Інтерфейс": "Bluetooth 5.1 (функція об'єднання колонок PartyBoost)",
+      "Акумулятор": "Літій-іонний полімерний 27 Вт·год (7500 мА·год)",
+      "Час автономної роботи": "До 20 годин відтворення",
+      "Функція Powerbank": "Вихід USB Type-A (5В / 2А) для зарядки гаджетів",
+      "Клас захисту": "IP67 (водонепроникний і пилозахищений корпус)",
+      "Габарити": "223 x 96.5 x 94 мм",
+      "Вага": "0.96 кг",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 4.8,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Андрій Лисенко",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Катерина Павленко",
+        "rating": 4,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 4,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "21.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аудіопристрою": "Портативна акустика",
+      "Підключення": "Бездротове (Bluetooth)",
+      "Вологозахист": "IP67"
+    }
+  },
+  {
+    "id": 20,
+    "sku": "MT-40115",
+    "brand": "Apple",
+    "name": "Смарт-годинник Apple Watch Series 9 GPS 45mm Midnight",
+    "category": "Смарт-годинники",
+    "price": 17299,
+    "oldPrice": 18499,
+    "image": "https://i.moyo.ua/img/products/7826/50_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7826/50_600.jpg",
+      "https://i.moyo.ua/img/gallery/7826/50/3733549_main.jpg",
+      "https://i.moyo.ua/img/gallery/7826/50/3733551_main.jpg",
+      "https://i.moyo.ua/img/gallery/7826/50/3733553_main.jpg",
+      "https://i.moyo.ua/img/gallery/7826/50/3733550_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Apple Watch Series 9 допомагає контролювати стан здоров'я та фізичну активність 24/7: вимірювання рівня кисню в крові, ЕКГ, фази сну та температура тіла. Новий двоядерний процесор S9 підтримує керування жестом подвійного дотику Double Tap.",
+    "specs": {
+      "Розмір корпусу": "45 мм (на зап'ястя 140-245 мм)",
+      "Дисплей": "Always-On Retina LTPO OLED (396x484 пікселів)",
+      "Яскравість екрана": "Від 1 до 2000 ніт, захисне скло Ion-X",
+      "Процесор": "Apple S9 SiP (64-бітний двоядерний) + чіп Ultra Wideband 2",
+      "Вбудована пам'ять": "64 ГБ",
+      "Датчики здоров'я": "Датчик кисню в крові (SpO2), електричний датчик серця (ЕКГ), оптичний пульсометр 3-го покоління, датчик температури",
+      "Навігація та спорт": "GPS, ГЛОНАСС, Galileo, QZSS, BeiDou, постійно активний висотомір, компас",
+      "Безпека": "Розпізнавання падіння, розпізнавання аварій, екстрений виклик SOS",
+      "Бездротові інтерфейси": "Wi-Fi 4 (802.11n 2.4/5 ГГц), Bluetooth 5.3, NFC (Apple Pay)",
+      "Вологозахист": "WR50 (плавання до 50 м), захист від пилу IP6X",
+      "Акумулятор": "До 18 годин (до 36 годин у режимі енергозбереження), швидка магнітна зарядка",
+      "Матеріал корпусу": "Анодований алюміній + задня панель із сапфірового скла та кераміки",
+      "Вага": "38.7 г (без ремінця)",
+      "Колір": "Midnight (Темна ніч)"
+    },
+    "rating": 5,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Володимир Поліщук",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 4,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 5,
+        "author": "Андрій Лисенко",
+        "rating": 5,
+        "date": "19.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Матеріал корпусу": "Алюміній",
+      "Розмір корпусу": "44 - 45 мм",
+      "Модуль NFC": "Є (безконтактна оплата)"
+    }
+  },
+  {
+    "id": 21,
+    "sku": "MT-40180",
+    "brand": "Apple",
+    "name": "Смарт-годинник Apple Watch Ultra 2 GPS + Cellular 49mm Titanium",
+    "category": "Смарт-годинники",
+    "price": 36999,
+    "oldPrice": null,
+    "image": "https://touch.com.ua/upload/iblock/dc5/h2xy1g4vpgsmbbdjliit7evzdigtr82z.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/dc5/h2xy1g4vpgsmbbdjliit7evzdigtr82z.jpg",
+      "https://touch.com.ua/upload/iblock/be0/c8k942752tfm7clhekk5bwa5kqrqypro.jpg",
+      "https://touch.com.ua/upload/iblock/ef4/9chvpssy3op1wa370izw5nbokfsrr4ac.jpg"
+    ],
+    "badge": "Новинка",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Найміцніший і найфункціональніший годинник Apple Watch Ultra 2 у 49-міліметровому титановому корпусі з пласким сапфіровим склом, екраном яскравістю 3000 ніт, двочастотним GPS L1+L5, глибиноміром для дайвінгу та сиреною на 86 дБ.",
+    "specs": {
+      "Розмір та матеріал корпусу": "49 мм, аерокосмічний титан + пласке сапфірове скло",
+      "Дисплей": "Always-On Retina LTPO OLED (410x502), яскравість до 3000 ніт",
+      "Процесор та пам'ять": "Apple S9 SiP + 64 ГБ вбудованої пам'яті",
+      "Навігація": "Високоточний двочастотний GPS (L1 та L5), Galileo, BeiDou",
+      "Дайвінг та захист": "Водонепроникність до 100 м (WR100), сертифікація EN13319 (дайвінг до 40 м), MIL-STD 810H, IP6X",
+      "Спеціальні датчики": "Глибиномір, датчик температури води, ЕКГ, пульсоксиметр SpO2",
+      "Аудіо та сирена": "2 динаміки, масив із 3 мікрофонів, аварійна сирена 86 дБ (чутно до 180 м)",
+      "Елементи керування": "Програмована кнопка дії Action Button у кольорі International Orange",
+      "Автономність": "До 36 годин стандартного використання, до 72 годин у режимі енергозбереження",
+      "Комунікації": "LTE / UMTS (eSIM), Wi-Fi, Bluetooth 5.3, Apple Pay, чіп U2",
+      "Вага": "61.4 г"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "28.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Матеріал корпусу": "Титан",
+      "Розмір корпусу": "49 мм",
+      "Модуль NFC": "Є (безконтактна оплата)"
+    }
+  },
+  {
+    "id": 22,
+    "sku": "MT-40274",
+    "brand": "Garmin",
+    "name": "Спортивний годинник Garmin Forerunner 265 Black (010-02810-10)",
+    "category": "Смарт-годинники",
+    "price": 19800,
+    "oldPrice": 21500,
+    "image": "https://i.moyo.ua/img/products/6899/92_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/6899/92_600.jpg",
+      "https://i.moyo.ua/img/gallery/6899/92/3484848_main.jpg",
+      "https://i.moyo.ua/img/gallery/6899/92/3491089_main.jpg",
+      "https://i.moyo.ua/img/gallery/6899/92/3484845_main.jpg",
+      "https://i.moyo.ua/img/gallery/6899/92/3484844_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Garmin Forerunner 265 створений для бігунів і тріатлоністів. Оцінює готовність до тренувань на основі варіабельності серцевого ритму (HRV), якості сну та часу відновлення. Підтримує безконтактні платежі Garmin Pay і вбудований плеєр для музики.",
+    "specs": {
+      "Дисплей": "1.3\" (33 мм) сенсорний AMOLED (416x416 пікселів)",
+      "Захисне скло": "Corning Gorilla Glass 3",
+      "Супутникова навігація": "Multi-Band GNSS (двочастотний GPS, GLONASS, Galileo) з технологією SatIQ",
+      "Вбудована пам'ять": "8 ГБ (зберігання до 500 аудіотреків Spotify / Deezer)",
+      "Датчики": "Пульсометр Garmin Elevate Gen 4, пульсоксиметр Pulse Ox, барометричний альтиметр, компас, гіроскоп, термометр",
+      "Спортивні функції": "Training Readiness, бігова потужність з зап'ястя, PacePro, Garmin Coach, VO2 Max",
+      "Безконтактні платежі": "Garmin Pay (модуль NFC)",
+      "Автономність": "До 13 днів у режимі смарт-годинника, до 20 годин у режимі GPS",
+      "Водонепроникність": "5 ATM (плавання до 50 метрів)",
+      "Габарити корпусу": "46.1 x 46.1 x 12.9 мм",
+      "Вага": "47 г",
+      "Колір": "Black / Powder Gray (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "15.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Матеріал корпусу": "Полімер / Скло",
+      "Розмір корпусу": "46 - 47 мм",
+      "Модуль NFC": "Є (безконтактна оплата)"
+    }
+  },
+  {
+    "id": 23,
+    "sku": "MT-40310",
+    "brand": "Samsung",
+    "name": "Смарт-годинник Samsung Galaxy Watch 6 44mm Graphite (SM-R940)",
+    "category": "Смарт-годинники",
+    "price": 10499,
+    "oldPrice": 11999,
+    "image": "https://touch.com.ua/upload/iblock/9cf/n0cmuv4dk3hdgn4trjvgd0cpx86z9nnc.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/9cf/n0cmuv4dk3hdgn4trjvgd0cpx86z9nnc.jpg",
+      "https://touch.com.ua/upload/iblock/c6c/modoge4p093mvwvhk6m4al8khr1fjawk.jpg",
+      "https://touch.com.ua/upload/iblock/e86/4tw9kpnupp56ev3sz90erb6ani79e5wl.jpg",
+      "https://touch.com.ua/upload/iblock/c50/t87dcy3fzcrlf8bga8ft56zy3extglpc.jpg",
+      "https://touch.com.ua/upload/iblock/87f/grkiednj89bbnakci2ja5q5frppw28kz.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Розумний годинник Samsung Galaxy Watch 6 44mm зі збільшеним Super AMOLED екраном під сапфіровим склом, сенсором Samsung BioActive (ЕКГ, тиск, біоімпедансний аналіз складу тіла BIA) та операційною системою Wear OS з Google Pay.",
+    "specs": {
+      "Дисплей": "1.5\" (480x480) Super AMOLED, Always-On Display",
+      "Матеріал скла та корпусу": "Сапфірове скло (Sapphire Crystal) + армований алюміній",
+      "Процесор": "Exynos W930 (2 ядра, 1.4 ГГц, 5 нм)",
+      "Пам'ять": "2 ГБ ОЗП + 16 ГБ вбудованої пам'яті",
+      "Операційна система": "Wear OS Powered by Samsung (One UI Watch 5)",
+      "Датчик BioActive": "Оптичний пульсометр, ЕКГ, аналіз складу тіла (BIA - м'язи, жир, вода), ІЧ-датчик температури",
+      "Безконтактна оплата": "NFC (підтримка Google Wallet / Google Pay)",
+      "Навігація": "GPS, Glonass, Beidou, Galileo",
+      "Захист": "5ATM + IP68 + військовий стандарт MIL-STD-810H",
+      "Акумулятор": "425 мА·год (до 40 годин роботи, швидка бездротова зарядка WPC)",
+      "Габарити": "44.4 x 42.8 x 9.0 мм",
+      "Вага": "33.3 г",
+      "Колір": "Graphite (Графітовий)"
+    },
+    "rating": 4.7,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Дмитро Бондаренко",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Вікторія Савченко",
+        "rating": 4,
+        "date": "17.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Матеріал корпусу": "Алюміній",
+      "Розмір корпусу": "44 - 45 мм",
+      "Модуль NFC": "Є (безконтактна оплата)"
+    }
+  },
+  {
+    "id": 24,
+    "sku": "MT-40388",
+    "brand": "Xiaomi",
+    "name": "Смарт-годинник Xiaomi Watch S3 Black (BHR7874GL)",
+    "category": "Смарт-годинники",
+    "price": 5499,
+    "oldPrice": null,
+    "image": "https://touch.com.ua/upload/iblock/15f/uk80qob7si36s80rdlg2oxj1uzu5s7bu.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/15f/uk80qob7si36s80rdlg2oxj1uzu5s7bu.jpg",
+      "https://touch.com.ua/upload/iblock/263/3c22akk7d00bwwhd5uwd9ssevujkxedz.jpg",
+      "https://touch.com.ua/upload/iblock/e78/effykh2nn1z2eervzyexechp55o9op49.jpg",
+      "https://touch.com.ua/upload/iblock/797/3kux0leqf6vra3ozjubg0kj7p8jf67c7.jpg",
+      "https://touch.com.ua/upload/iblock/7c8/epaklzcfq03mhv12ogr2cov02dg029bv.jpg"
+    ],
+    "badge": null,
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Елегантний смарт-годинник Xiaomi Watch S3 з унікальною системою змінних безелів, яскравим 1.43-дюймовим AMOLED-екраном, підтримкою Bluetooth-дзвінків, безконтактною оплатою Xiaomi Pay та до 15 днів автономної роботи.",
+    "specs": {
+      "Дисплей": "1.43\" (466x466) AMOLED, 326 ppi, 60 Гц, яскравість 600 ніт",
+      "Конструкція": "Алюмінієва рама зі змінним сталевим безелем",
+      "Операційна система": "Xiaomi HyperOS (сумісність з Android та iOS)",
+      "Датчики": "12-канальний оптичний датчик пульсу та SpO2, барометр, гіроскоп, геомагнітний датчик",
+      "Супутникова навігація": "Дводіапазонний L1+L5 GNSS (GPS, BeiDou, GLONASS, Galileo, QZSS)",
+      "Спорт": "Понад 150 спортивних режимів (включно з професійним лижним режимом)",
+      "Дзвінки та NFC": "Вбудований мікрофон і динамік для Bluetooth-дзвінків, модуль NFC (Mastercard)",
+      "Вологозахист": "5 ATM",
+      "Акумулятор": "486 мА·год (до 15 днів автономної роботи, 5 хв зарядки = 2 дні роботи)",
+      "Габарити": "47 x 47 x 12 мм",
+      "Вага": "44 г (без ремінця)",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Олена Кравченко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Артем Мороз",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "10.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Матеріал корпусу": "Алюміній / Сталь",
+      "Розмір корпусу": "46 - 47 мм",
+      "Модуль NFC": "Є (безконтактна оплата)"
+    }
+  },
+  {
+    "id": 25,
+    "sku": "MT-60101",
+    "brand": "Apple",
+    "name": "Планшет Apple iPad Air 11\" M2 Wi-Fi 128GB Space Gray (MUWC3)",
+    "category": "Планшети",
+    "price": 27999,
+    "oldPrice": 29999,
+    "image": "https://i.moyo.ua/img/products/7374/13_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7374/13_600.jpg",
+      "https://i.moyo.ua/img/gallery/7374/13/3466844_main.jpg",
+      "https://i.moyo.ua/img/gallery/7374/13/3466853_main.jpg",
+      "https://i.moyo.ua/img/gallery/7374/13/3466855_main.jpg",
+      "https://i.moyo.ua/img/gallery/7374/13/3466858_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Планшет Apple iPad Air 11 на базі настільного процесора Apple M2 забезпечує неймовірну швидкість у графічних редакторах, навчанні та іграх. Оснащений дисплеєм Liquid Retina з антибліковим покриттям, горизонтальною фронтальною камерою Center Stage і підтримкою Apple Pencil Pro.",
+    "specs": {
+      "Дисплей": "11\" (2360x1640) Liquid Retina IPS, 264 ppi",
+      "Особливості екрана": "Колірне охоплення P3, True Tone, ламінування, яскравість 500 ніт",
+      "Процесор": "Apple M2 (8 ядер CPU / 9 ядер GPU / 16 ядер Neural Engine)",
+      "Оперативна пам'ять": "8 ГБ Unified Memory",
+      "Вбудована пам'ять": "128 ГБ",
+      "Основна камера": "12 Мп ширококутна (f/1.8), запис відео 4K 60 fps, Smart HDR 4",
+      "Фронтальна камера": "Горизонтальна 12 Мп ультраширока з функцією Center Stage",
+      "Аудіо": "Горизонтальні стереодинаміки, 2 мікрофони",
+      "Підтримка аксесуарів": "Apple Pencil Pro, Apple Pencil (USB-C), клавіатура Magic Keyboard",
+      "Бездротові технології": "Wi-Fi 6E (802.11ax 2x2 MIMO), Bluetooth 5.3",
+      "Роз'єм та біометрія": "USB Type-C (10 Гбіт/с, DisplayPort), сканер Touch ID у верхній кнопці",
+      "Акумулятор": "28.93 Вт·год (до 10 годин роботи в інтернеті)",
+      "Габарити": "247.6 x 178.5 x 6.1 мм",
+      "Вага": "462 г",
+      "Колір": "Space Gray (Сірий космос)"
+    },
+    "rating": 4.8,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Андрій Лисенко",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Катерина Павленко",
+        "rating": 4,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 5,
+        "author": "Олена Кравченко",
+        "rating": 5,
+        "date": "28.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "128 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "11\"",
+      "Лінійка процесора": "Apple M2 / M3",
+      "Частота оновлення": "60 Гц"
+    }
+  },
+  {
+    "id": 26,
+    "sku": "MT-60214",
+    "brand": "Samsung",
+    "name": "Планшет Samsung Galaxy Tab S9 11\" 8/128GB Wi-Fi Graphite (SM-X710)",
+    "category": "Планшети",
+    "price": 29499,
+    "oldPrice": 32999,
+    "image": "https://i.moyo.ua/img/products/6643/17_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/6643/17_600.jpg",
+      "https://i.moyo.ua/img/gallery/6643/17/3134201_main.jpg",
+      "https://i.moyo.ua/img/gallery/6643/17/3134202_main.jpg",
+      "https://i.moyo.ua/img/gallery/6643/17/3134203_main.jpg",
+      "https://i.moyo.ua/img/gallery/6643/17/3134204_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Флагманський планшет Samsung Galaxy Tab S9 з екраном Dynamic AMOLED 2X 120 Гц, процесором Snapdragon 8 Gen 2, чотирма динаміками AKG, пером S Pen у комплекті та першим у класі захистом від води й пилу за стандартом IP68.",
+    "specs": {
+      "Дисплей": "11.0\" (2560x1600) WQXGA Dynamic AMOLED 2X, HDR10+",
+      "Частота оновлення": "Адаптивна від 60 до 120 Гц",
+      "Процесор": "Qualcomm Snapdragon 8 Gen 2 for Galaxy (8 ядер, до 3.36 ГГц)",
+      "Пам'ять": "8 ГБ ОЗП + 128 ГБ ПЗП (слот microSD до 1 ТБ)",
+      "Стилус у комплекті": "Електронне перо S Pen (IP68, магнітна зарядка на корпусі)",
+      "Камери": "Основна 13 Мп (автофокус, 4K відео) / Фронтальна 12 Мп ультраширока",
+      "Аудіосистема": "4 стереодинаміки AKG з підтримкою Dolby Atmos",
+      "Захист корпусу": "IP68 (захист від води та пилу), рамка Armor Aluminum",
+      "Комунікації": "Wi-Fi 6E (802.11ax), Bluetooth 5.3, USB Type-C 3.2 (режим Samsung DeX)",
+      "Безпека": "Підекранний оптичний сканер відбитка пальця",
+      "Акумулятор": "8400 мА·год (підтримка швидкої зарядки 45 Вт)",
+      "Габарити": "254.3 x 165.8 x 5.9 мм",
+      "Вага": "498 г",
+      "Колір": "Graphite (Графіт)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "14.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "128 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "11\"",
+      "Лінійка процесора": "Qualcomm Snapdragon",
+      "Частота оновлення": "120 Гц"
+    }
+  },
+  {
+    "id": 27,
+    "sku": "MT-60305",
+    "brand": "Xiaomi",
+    "name": "Планшет Xiaomi Pad 6 11\" 8/256GB Wi-Fi Gravity Gray",
+    "category": "Планшети",
+    "price": 15499,
+    "oldPrice": 16999,
+    "image": "https://touch.com.ua/upload/iblock/9c4/jtyxf0wajeyfutgem0p9skb19eicysuy.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/9c4/jtyxf0wajeyfutgem0p9skb19eicysuy.jpg",
+      "https://touch.com.ua/upload/iblock/8d2/35uwobc8vfjza2zvms2o6dzbptd52ld7.jpg",
+      "https://touch.com.ua/upload/iblock/0ce/4lbx1akomhqemf10gumpvdy48q7y11f2.jpg",
+      "https://touch.com.ua/upload/iblock/132/umjkbdc8iuy2b0gzcou052pke4ibezws.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Металевий планшет Xiaomi Pad 6 з надчітким WQHD+ дисплеєм 144 Гц, процесором Snapdragon 870, чотирма динаміками Dolby Atmos та ємним акумулятором на 8840 мА·год.",
+    "specs": {
+      "Дисплей": "11.0\" (2880x1800) WQHD+ IPS, 309 ppi, 1 млрд кольорів",
+      "Частота оновлення": "7-ступенева адаптивна до 144 Гц, яскравість 550 ніт, Dolby Vision",
+      "Захисне скло": "Corning Gorilla Glass 3",
+      "Процесор": "Qualcomm Snapdragon 870 (7 нм, 8 ядер, до 3.2 ГГц)",
+      "Пам'ять": "8 ГБ LPDDR5 + 256 ГБ UFS 3.1",
+      "Камери": "Основна 13 Мп (f/2.2, 4K 30 fps) / Фронтальна 8 Мп (FocusFrame)",
+      "Аудіосистема": "4 лінійні динаміки з підтримкою Dolby Atmos та Hi-Res Audio, 4 мікрофони",
+      "Порти та інтерфейси": "USB Type-C 3.2 Gen 1 (5 Гбіт/с, вивід відео DP до 4K 60 Гц), Wi-Fi 6, Bluetooth 5.2",
+      "Акумулятор": "8840 мА·год (до 16 годин відтворення відео, швидка зарядка 33 Вт у комплекті)",
+      "Матеріал корпусу": "Суцільнометалевий алюмінієвий unibody-корпус",
+      "Габарити": "253.95 x 165.18 x 6.51 мм",
+      "Вага": "490 г",
+      "Колір": "Gravity Gray (Темно-сірий)"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Богдан Романенко",
+        "rating": 5,
+        "date": "05.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "256 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "11\"",
+      "Лінійка процесора": "Qualcomm Snapdragon",
+      "Частота оновлення": "144 Гц"
+    }
+  },
+  {
+    "id": 28,
+    "sku": "MT-60412",
+    "brand": "Lenovo",
+    "name": "Планшет Lenovo Tab M11 8/128GB Wi-Fi Luna Grey + Pen (ZADA0131UA)",
+    "category": "Планшети",
+    "price": 8999,
+    "oldPrice": null,
+    "image": "https://touch.com.ua/upload/iblock/d7c/vzau9y728g7f157dx8q218u87kcvno50.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/d7c/vzau9y728g7f157dx8q218u87kcvno50.jpg",
+      "https://touch.com.ua/upload/iblock/688/i5kfbbzmn5ttamymq0dn9tr385ms5w8e.jpg",
+      "https://touch.com.ua/upload/iblock/80f/hn9btufcouqj6mcckzq1lqvxgg4upcac.jpg",
+      "https://touch.com.ua/upload/iblock/254/sg1wljs71zcv7czy7kelg7hzrzoytp73.jpg",
+      "https://touch.com.ua/upload/iblock/b3b/bnicibkx4gqw21hfn2uhp8ru8mtpbq1a.jpg"
+    ],
+    "badge": null,
+    "inStock": true,
+    "warranty": "12 місяців офіційної гарантії",
+    "fullDescription": "Практичний планшет для навчання та мультимедіа Lenovo Tab M11 з 11-дюймовим екраном 90 Гц, чотирма динаміками Dolby Atmos та фірмовим стилусом Lenovo Tab Pen у базовій комплектації.",
+    "specs": {
+      "Дисплей": "11.0\" (1920x1200) WUXGA IPS, 90 Гц, 400 ніт",
+      "Захист зору": "Сертифікація TÜV Rheinland Low Blue Light",
+      "Процесор": "MediaTek Helio G88 (8 ядер, до 2.0 ГГц)",
+      "Пам'ять": "8 ГБ LPDDR4X + 128 ГБ eMMC 5.1 (слот microSD до 1 ТБ)",
+      "Комплектний стилус": "Активний стилус Lenovo Tab Pen (4096 рівнів натискання)",
+      "Аудіо": "4 стереодинаміки, налаштовані з технологією Dolby Atmos, роз'єм 3.5 мм",
+      "Камери": "Основна 13 Мп з автофокусом / Фронтальна 8 Мп",
+      "Бездротовий зв'язок": "Wi-Fi 5 (802.11ac), Bluetooth 5.1, GPS, GLONASS, Galileo",
+      "Акумулятор": "7040 мА·год (до 10 годин відтворення відео)",
+      "Захист корпусу": "Металевий корпус із захистом від бризок IP52",
+      "Габарити": "255.26 x 166.31 x 7.15 мм",
+      "Вага": "465 г",
+      "Колір": "Luna Grey (Сірий)"
+    },
+    "rating": 5,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Ігор Мельник",
+        "rating": 5,
+        "date": "21.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Обсяг накопичувача": "128 ГБ",
+      "Оперативна пам'ять": "8 ГБ",
+      "Діагональ екрана": "11\"",
+      "Лінійка процесора": "MediaTek Helio",
+      "Частота оновлення": "90 Гц"
+    }
+  },
+  {
+    "id": 29,
+    "sku": "MT-70110",
+    "brand": "Logitech",
+    "name": "Бездротова миша Logitech MX Master 3S Graphite (910-006559)",
+    "category": "Периферія",
+    "price": 4599,
+    "oldPrice": 4999,
+    "image": "https://i.moyo.ua/img/products/7862/79_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/7862/79_600.jpg",
+      "https://i.moyo.ua/img/gallery/7862/79/3769357_main.jpg",
+      "https://i.moyo.ua/img/gallery/7862/79/3769355_main.jpg",
+      "https://i.moyo.ua/img/gallery/7862/79/3769358_main.jpg",
+      "https://i.moyo.ua/img/gallery/7862/79/3769359_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "Легендарна ергономічна миша для програмістів і дизайнерів Logitech MX Master 3S з оптичним сенсором Darkfield 8000 DPI, який працює навіть на склі, безшумними перемикачами Quiet Clicks і електромагнітним колесом прокрутки MagSpeed.",
+    "specs": {
+      "Тип сенсора": "Оптичний високоточний Darkfield (працює на склі товщиною від 4 мм)",
+      "Роздільна здатність": "Від 200 до 8000 DPI (крок налаштування 50 DPI)",
+      "Кількість кнопок": "7 програмованих кнопок + кнопка жестів",
+      "Колеса прокрутки": "Основне електромагнітне сталеве MagSpeed (1000 рядків/с) + бокове під великий палець",
+      "Перемикачі": "Безшумні Quiet Clicks (на 90% тихіші кліки)",
+      "Інтерфейс підключення": "Bluetooth Low Energy + радіоприймач Logi Bolt USB (у комплекті)",
+      "Easy-Switch": "Швидке перемикання між 3 пристроями (Windows, macOS, Linux, iPadOS)",
+      "Акумулятор": "Вбудований Li-Pol 500 мА·год (до 70 днів на одному заряді)",
+      "Швидка зарядка": "USB Type-C (1 хвилина зарядки = 3 години роботи)",
+      "Габарити": "124.9 x 84.3 x 51 мм",
+      "Вага": "141 г",
+      "Колір": "Graphite (Темно-сірий)"
+    },
+    "rating": 4.8,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Дмитро Бондаренко",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Вікторія Савченко",
+        "rating": 4,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 4,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "19.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип периферії": "Миша",
+      "Підключення": "Бездротове (Bluetooth / 2.4 ГГц)",
+      "Призначення": "Для роботи та офісу"
+    }
+  },
+  {
+    "id": 30,
+    "sku": "MT-70245",
+    "brand": "Keychron",
+    "name": "Механічна клавіатура Keychron K2 Pro QMK/VIA Wireless Red Switch",
+    "category": "Периферія",
+    "price": 4899,
+    "oldPrice": null,
+    "image": "https://i.moyo.ua/img/products/8670/22_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/8670/22_600.jpg",
+      "https://i.moyo.ua/img/gallery/8670/22/4241999_main.jpg",
+      "https://i.moyo.ua/img/gallery/8670/22/4242001_main.jpg"
+    ],
+    "badge": "Новинка",
+    "inStock": true,
+    "warranty": "12 місяців гарантії",
+    "fullDescription": "Кастомна бездротова механічна клавіатура Keychron K2 Pro формату 75% з підтримкою відкритого прошивання QMK/VIA, гарячою заміною перемикачів Hot-Swap, PBT-кейкапами подвійного лиття та силіконовою шумоізоляцією корпусу.",
+    "specs": {
+      "Форм-фактор": "Компактна 75% (84 клавіші)",
+      "Тип перемикачів": "Механічні Keychron K Pro Red (лінійні, попередньо змащені на заводі)",
+      "Hot-Swap": "Підтримка гарячої заміни 3-pin та 5-pin механічних свічів без паяння",
+      "Матеріал кейкапів": "Непрозорий Double-Shot PBT (профіль OSA, стійкі до стирання)",
+      "Програмування": "Повна підтримка QMK та веб-конфігуратора VIA (макроси, перепризначення)",
+      "Підключення": "Bluetooth 5.1 (до 3 пристроїв) + дротове USB Type-C (1000 Гц)",
+      "Сумісність": "Апаратний перемикач режимів macOS / Windows (додаткові кейкапи в комплекті)",
+      "Шумоізоляція": "Звукопоглинаюча піна + силіконовий демпфер дна + стабілізатори PCB Screw-In",
+      "Підсвітка": "South-facing RGB (22 режими світіння)",
+      "Акумулятор": "4000 мА·год (до 240 годин роботи без підсвітки)",
+      "Габарити": "316.6 x 126.9 x 38.5 мм",
+      "Вага": "1070 г"
+    },
+    "rating": 5,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Олена Кравченко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Артем Мороз",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 5,
+        "author": "Дмитро Бондаренко",
+        "rating": 5,
+        "date": "14.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип периферії": "Механічна клавіатура",
+      "Підключення": "Бездротове (Bluetooth / 2.4 ГГц)",
+      "Призначення": "Для роботи та геймінгу"
+    }
+  },
+  {
+    "id": 31,
+    "sku": "MT-70319",
+    "brand": "Razer",
+    "name": "Ігрова миша Razer DeathAdder V3 Pro Black (RZ01-04630100)",
+    "category": "Периферія",
+    "price": 5799,
+    "oldPrice": 6499,
+    "image": "https://i.moyo.ua/img/products/5403/66_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/5403/66_600.jpg",
+      "https://i.moyo.ua/img/gallery/5403/66/1597652_main.jpg",
+      "https://i.moyo.ua/img/gallery/5403/66/1597648_main.jpg",
+      "https://i.moyo.ua/img/gallery/5403/66/1597655_main.jpg",
+      "https://i.moyo.ua/img/gallery/5403/66/1597653_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "Кіберспортивна ультралегка бездротова миша Razer DeathAdder V3 Pro вагою лише 63 грами, оснащена еталонним оптичним сенсором Focus Pro 30K та оптичними перемикачами третього покоління з ресурсом 90 мільйонів натискань.",
+    "specs": {
+      "Сенсор": "Оптичний Razer Focus Pro 30 000 DPI (точність відстеження 99.8%)",
+      "Максимальна швидкість та прискорення": "750 IPS / прискорення 70 G",
+      "Перемикачі": "Оптичні Razer Optical Mouse Switches Gen-3 (ресурс 90 млн кліків)",
+      "Тип підключення": "Бездротове Razer HyperSpeed Wireless 2.4 ГГц + дротове Speedflex USB-C",
+      "Кількість кнопок": "5 незалежно програмованих кнопок",
+      "Вбудована пам'ять": "Збереження профілю DPI та налаштувань Razer Synapse",
+      "Ніжки миші": "100% чистий тефлон (PTFE)",
+      "Автономність": "До 90 годин безперервної гри при частоті опитування 1000 Гц",
+      "Габарити": "128.0 x 68.0 x 44.0 мм (ергономічна форма для правої руки)",
+      "Вага": "63 г",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "15.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип периферії": "Миша",
+      "Підключення": "Бездротове (Bluetooth / 2.4 ГГц)",
+      "Призначення": "Для геймінгу та кіберспорту"
+    }
+  },
+  {
+    "id": 32,
+    "sku": "MT-70402",
+    "brand": "HyperX",
+    "name": "Клавіатура HyperX Alloy Origins Core Red Switch (4P5P3AA)",
+    "category": "Периферія",
+    "price": 3699,
+    "oldPrice": 4199,
+    "image": "https://i.moyo.ua/img/products/5358/16_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/5358/16_600.jpg",
+      "https://i.moyo.ua/img/gallery/5358/16/2826466_main.jpg",
+      "https://i.moyo.ua/img/gallery/5358/16/2826468_main.jpg",
+      "https://i.moyo.ua/img/gallery/5358/16/2826464_main.jpg",
+      "https://i.moyo.ua/img/gallery/5358/16/2826463_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "Компактна ігрова TKL-клавіатура HyperX Alloy Origins Core у суцільному корпусі з авіаційного алюмінію на фірмових лінійних перемикачах HyperX Red із яскравою RGB-підсвіткою та знімним кабелем USB Type-C.",
+    "specs": {
+      "Форм-фактор": "TKL (Tenkeyless - без цифрового блоку, 87 клавіш)",
+      "Тип перемикачів": "Механічні фірмові HyperX Red (лінійні)",
+      "Сила натискання та хід": "45 г, хід до спрацьовування 1.8 мм (повний 3.8 мм)",
+      "Ресурс клавіш": "80 мільйонів натискань",
+      "Матеріал корпусу": "Суцільний корпус з авіаційного алюмінію",
+      "Підсвітка": "Індивідуальна RGB з відкритими світлодіодами (5 рівнів яскравості)",
+      "Вбудована пам'ять": "Збереження 3 профілів освітлення та макросів (ПЗ HyperX NGENUITY)",
+      "Антигостинг": "100% Anti-Ghosting та N-Key Rollover",
+      "Кабель": "Знімний у тканинному обплетенні USB Type-C - USB Type-A (1.8 м)",
+      "Регулювання нахилу": "Тirівневі ніжки (кути нахилу 3°, 7° або 11°)",
+      "Габарити": "360.0 x 132.5 x 34.5 мм",
+      "Вага": "900 г"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "19.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "17.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип периферії": "Механічна клавіатура",
+      "Підключення": "Дротове (USB Type-C)",
+      "Призначення": "Для геймінгу та кіберспорту"
+    }
+  },
+  {
+    "id": 33,
+    "sku": "MT-80115",
+    "brand": "Samsung",
+    "name": "Монітор 27\" Samsung Odyssey G5 (LS27CG552EIXCI) Black",
+    "category": "Монітори",
+    "price": 8999,
+    "oldPrice": 9999,
+    "image": "https://i.moyo.ua/img/products/6872/53_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/6872/53_600.jpg",
+      "https://i.moyo.ua/img/gallery/6872/53/3346258_main.jpg",
+      "https://i.moyo.ua/img/gallery/6872/53/3346259_main.jpg",
+      "https://i.moyo.ua/img/gallery/6872/53/3346260_main.jpg",
+      "https://i.moyo.ua/img/gallery/6872/53/3346261_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "Вигнутий ігровий монітор Samsung Odyssey G5 з радіусом кривизни 1000R, який повністю відповідає полю зору людини, роздільною здатністю QHD (2560x1440), частотою оновлення 165 Гц і часом відгуку 1 мс.",
+    "specs": {
+      "Діагональ екрана": "27\" (вигнутий екран з кривизною 1000R)",
+      "Роздільна здатність": "2560 x 1440 (WQHD, співвідношення 16:9)",
+      "Тип матриці": "VA з антивідблисковим покриттям",
+      "Частота оновлення": "165 Гц",
+      "Час реакції матриці": "1 мс (MPRT)",
+      "Яскравість та контрастність": "300 кд/м² / статична контрастність 2500:1, підтримка HDR10",
+      "Технологія синхронізації": "AMD FreeSync Premium",
+      "Кути огляду": "178° за горизонталлю / 178° за вертикаллю",
+      "Інтерфейси підключення": "1 x DisplayPort 1.2, 1 x HDMI 2.0, вихід на навушники 3.5 мм",
+      "Захист зору": "Eye Saver Mode, технологія Flicker Free",
+      "Кріплення VESA": "75 x 75 мм",
+      "Габарити з підставкою": "616.6 x 477.4 x 272.6 мм",
+      "Вага": "4.5 кг",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 4.7,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "17.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Богдан Романенко",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Марія Шевченко",
+        "rating": 4,
+        "date": "10.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Діагональ екрана": "27\"",
+      "Роздільна здатність": "WQHD (2560x1440)",
+      "Тип матриці": "VA",
+      "Частота оновлення": "165 - 180 Гц"
+    }
+  },
+  {
+    "id": 34,
+    "sku": "MT-80230",
+    "brand": "LG",
+    "name": "Монітор 27\" LG UltraGear 27GP850-B Nano IPS 180Hz",
+    "category": "Монітори",
+    "price": 13499,
+    "oldPrice": 14999,
+    "image": "https://i.moyo.ua/img/products/8827/79_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/8827/79_600.jpg",
+      "https://i.moyo.ua/img/gallery/8827/79/4451092_main.jpg",
+      "https://i.moyo.ua/img/gallery/8827/79/4451093_main.jpg",
+      "https://i.moyo.ua/img/gallery/8827/79/4451094_main.jpg",
+      "https://i.moyo.ua/img/gallery/8827/79/4451097_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "24 місяці офіційної гарантії",
+    "fullDescription": "Швидкісний QHD-монітор LG UltraGear на базі матриці Nano IPS з охопленням 98% колірного простору DCI-P3, частотою оновлення 180 Гц (O/C), часом відгуку 1 мс (GtG) та офіційною сумісністю з NVIDIA G-SYNC.",
+    "specs": {
+      "Діагональ та роздільна здатність": "27\" (2560 x 1440) QHD 16:9",
+      "Тип матриці": "Nano IPS (1.07 млрд кольорів, 10 біт)",
+      "Колірне охоплення": "98% DCI-P3 (135% sRGB), заводське калібрування",
+      "Частота оновлення": "165 Гц (розгін Overclock до 180 Гц)",
+      "Час відгуку": "1 мс (GtG)",
+      "Яскравість та HDR": "400 кд/м², сертифікація VESA DisplayHDR 400",
+      "Адаптивна синхронізація": "NVIDIA G-SYNC Compatible + AMD FreeSync Premium",
+      "Порти": "1 x DisplayPort 1.4, 2 x HDMI 2.0, USB-хаб (2 x USB 3.0), аудіовихід 3.5 мм",
+      "Ергономіка підставки": "Регулювання за висотою (110 мм), нахил, поворот у портретний режим (Pivot)",
+      "Кріплення VESA": "100 x 100 мм",
+      "Габарити": "614.2 x 575.9 x 291.2 мм",
+      "Вага": "6.3 кг"
+    },
+    "rating": 5,
+    "reviewsCount": 4,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "14.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Ігор Мельник",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 4,
+        "author": "Наталія Руденко",
+        "rating": 5,
+        "date": "28.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Діагональ екрана": "27\"",
+      "Роздільна здатність": "WQHD (2560x1440)",
+      "Тип матриці": "IPS / Nano IPS",
+      "Частота оновлення": "165 - 180 Гц"
+    }
+  },
+  {
+    "id": 35,
+    "sku": "MT-80390",
+    "brand": "Dell",
+    "name": "Монітор 27\" Dell UltraSharp U2723QE 4K IPS Black USB-C Hub",
+    "category": "Монітори",
+    "price": 24999,
+    "oldPrice": null,
+    "image": "https://i.moyo.ua/img/products/5698/1_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/5698/1_600.jpg",
+      "https://i.moyo.ua/img/gallery/5698/1/1844560_main.jpg",
+      "https://i.moyo.ua/img/gallery/5698/1/1844557_main.jpg",
+      "https://i.moyo.ua/img/gallery/5698/1/1844558_main.jpg",
+      "https://i.moyo.ua/img/gallery/5698/1/1844561_main.jpg"
+    ],
+    "badge": null,
+    "inStock": true,
+    "warranty": "36 місяців офіційної гарантії",
+    "fullDescription": "Професійний 4K-монітор Dell UltraSharp U2723QE з першою у світі технологією матриці IPS Black (контрастність 2000:1), вбудованою док-станцією USB-C Power Delivery 90 Вт та мережевим портом RJ-45.",
+    "specs": {
+      "Діагональ та роздільна здатність": "27\" (3840 x 2160) 4K Ultra HD, 163 ppi",
+      "Технологія матриці": "IPS Black (контрастність 2000:1 - удвічі глибший чорний колір)",
+      "Колірне охоплення": "100% sRGB, 100% Rec.709, 98% DCI-P3 (заводське калібрування Delta E < 2)",
+      "Яскравість": "400 кд/м², VESA DisplayHDR 400",
+      "Док-станція USB-C": "Передача відео, даних та живлення ноутбука до 90 Вт одним кабелем",
+      "Інтерфейси": "1 x HDMI 2.0, 1 x DP 1.4 (вхід), 1 x DP (вихід MST), USB-C 90W, RJ-45 (Gigabit LAN), 5 x USB-A 3.2 Gen 2",
+      "Функція KVM-світча": "Керування двома ПК одним комплектом клавіатури та миші (Picture-by-Picture)",
+      "Ергономіка": "Регулювання висоти (150 мм), поворот, нахил, Pivot 90°",
+      "Захист зору": "Вбудований апаратний фільтр ComfortView Plus",
+      "Габарити": "611.4 x 385.2 - 535.2 x 185 мм",
+      "Вага": "6.64 кг"
+    },
+    "rating": 4.8,
+    "reviewsCount": 5,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Тетяна Клименко",
+        "rating": 5,
+        "date": "10.11.2026"
+      },
+      {
+        "id": 2,
+        "author": "Дмитро Бондаренко",
+        "rating": 5,
+        "date": "05.11.2026"
+      },
+      {
+        "id": 3,
+        "author": "Вікторія Савченко",
+        "rating": 4,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 4,
+        "author": "Сергій Гаврилюк",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 5,
+        "author": "Ірина Захарченко",
+        "rating": 5,
+        "date": "15.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Діагональ екрана": "27\"",
+      "Роздільна здатність": "4K UHD (3840x2160)",
+      "Тип матриці": "IPS / Nano IPS",
+      "Частота оновлення": "60 Гц"
+    }
+  },
+  {
+    "id": 36,
+    "sku": "MT-50109",
+    "brand": "Baseus",
+    "name": "Мережевий зарядний пристрій Baseus GaN5 Pro 65W 2Type-C + USB Black",
+    "category": "Аксесуари",
+    "price": 1499,
+    "oldPrice": 1799,
+    "image": "https://i.moyo.ua/img/products/8099/42_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/8099/42_600.jpg",
+      "https://i.moyo.ua/img/gallery/8099/42/4447813_main.jpg",
+      "https://i.moyo.ua/img/gallery/8099/42/4447812_main.jpg",
+      "https://i.moyo.ua/img/gallery/8099/42/4447811_main.jpg",
+      "https://i.moyo.ua/img/gallery/8099/42/4447814_main.jpg"
+    ],
+    "badge": "Хіт продажів",
+    "inStock": true,
+    "warranty": "12 місяців гарантії",
+    "fullDescription": "Зарядний пристрій Baseus GaN5 Pro потужністю 65 Вт використовує напівпровідники з нітриду галію п'ятого покоління, завдяки чому має малі габарити та не перегрівається. У комплекті постачається кабель USB Type-C - Type-C на 100 Вт (1 метр).",
+    "specs": {
+      "Максимальна вихідна потужність": "65 Вт",
+      "Технологія напівпровідників": "GaN5 (нітрид галію 5-го покоління) + охолодження BCT",
+      "Кількість портів": "3 порти (2 x USB Type-C + 1 x USB Type-A)",
+      "Вихід Type-C1 / Type-C2": "5V/3A, 9V/3A, 12V/3A, 15V/3A, 20V/3.25A (65 Вт Макс)",
+      "Вихід USB Type-A": "5V/3A, 9V/3A, 12V/3A, 20V/3A (60 Вт Макс)",
+      "Одночасна робота": "Type-C1 (45 Вт для ноутбука) + Type-C2/USB-A (20 Вт для смартфона)",
+      "Протоколи швидкої зарядки": "Power Delivery 3.0 (PD), Quick Charge 4.0+/3.0, Samsung AFC, Huawei SCP, PPS",
+      "Комплектний кабель": "Кабель Baseus Superior Series Type-C to Type-C 100W (5A, 1 м з чіпом E-Marker)",
+      "Габарити": "98 x 36.3 x 32 мм",
+      "Вага": "120 г",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 1,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олександр Коваленко",
+        "rating": 5,
+        "date": "05.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аксесуара": "Мережевий зарядний пристрій",
+      "Потужність зарядки": "65 Вт (GaN5)"
+    }
+  },
+  {
+    "id": 37,
+    "sku": "MT-50233",
+    "brand": "Anker",
+    "name": "УМБ Павербанк Anker 737 Power Bank (PowerCore 24K) 24000mAh 140W",
+    "category": "Аксесуари",
+    "price": 5499,
+    "oldPrice": 6199,
+    "image": "https://i.moyo.ua/img/products/8395/41_600.jpg",
+    "images": [
+      "https://i.moyo.ua/img/products/8395/41_600.jpg",
+      "https://i.moyo.ua/img/gallery/8395/41/4001388_main.jpg",
+      "https://i.moyo.ua/img/gallery/8395/41/4001390_main.jpg",
+      "https://i.moyo.ua/img/gallery/8395/41/4001391_main.jpg",
+      "https://i.moyo.ua/img/gallery/8395/41/4001389_main.jpg"
+    ],
+    "badge": "Акція",
+    "inStock": true,
+    "warranty": "18 місяців офіційної гарантії",
+    "fullDescription": "Флагманський павербанк для ноутбуків Anker 737 Power Bank ємністю 24 000 мА·год з двосторонньою швидкою зарядкою Power Delivery 3.1 потужністю 140 Вт та інформативним кольоровим смарт-дисплеєм.",
+    "specs": {
+      "Ємність батареї": "24 000 мА·год (86.4 Вт·год - дозволено для перевезення в ручній поклажі літака)",
+      "Максимальна потужність": "140 Вт (стандарт USB Power Delivery 3.1 та технологія GaNPrime)",
+      "Вхідна потужність (зарядка УМБ)": "До 140 Вт через USB-C (повна зарядка павербанка за 52 хвилини)",
+      "Вихідні роз'єми": "2 x USB Type-C (до 140 Вт кожен) + 1 x USB Type-A (до 18 Вт)",
+      "Інформаційний дисплей": "Кольоровий OLED-екран (відсоток заряду, потужність входу/виходу по портах, температура)",
+      "Система безпеки": "ActiveShield 2.0 (3 мільйони замірів температури на добу)",
+      "Комплектація": "Павербанк Anker 737, кабель USB-C - USB-C 140W (0.6 м), дорожній чохол",
+      "Габарити": "155.7 x 54.6 x 49.5 мм",
+      "Вага": "630 г",
+      "Колір": "Black / Dark Gray"
+    },
+    "rating": 5,
+    "reviewsCount": 2,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Ткаченко",
+        "rating": 5,
+        "date": "28.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Андрій Лисенко",
+        "rating": 5,
+        "date": "21.10.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аксесуара": "Павербанк (УМБ)",
+      "Потужність зарядки": "140 Вт (Power Delivery)"
+    }
+  },
+  {
+    "id": 38,
+    "sku": "MT-50340",
+    "brand": "Samsung",
+    "name": "Зовнішній SSD накопичувач Samsung T7 Shield 1TB USB 3.2 Black (MU-PE1T0S)",
+    "category": "Аксесуари",
+    "price": 4499,
+    "oldPrice": null,
+    "image": "https://touch.com.ua/upload/iblock/f07/o7kwnoyxd6ud21ixfd7yqzgoxx8xig7f.jpg",
+    "images": [
+      "https://touch.com.ua/upload/iblock/f07/o7kwnoyxd6ud21ixfd7yqzgoxx8xig7f.jpg",
+      "https://touch.com.ua/upload/iblock/a74/68ibocx5n5tcm4hmn8zvguqqe4vapcqc.jpg",
+      "https://touch.com.ua/upload/iblock/df3/l30ju430v0se35d8vaz7ag6r07gscnjw.jpg",
+      "https://touch.com.ua/upload/iblock/b34/l7nep9k8dfbhwzilsee90k7rq62614cz.jpg",
+      "https://touch.com.ua/upload/iblock/884/6313v0jcw0boxdxa93mjpu60hjoo5izf.jpg"
+    ],
+    "badge": null,
+    "inStock": true,
+    "warranty": "36 місяців офіційної гарантії",
+    "fullDescription": "Захищений портативний SSD-накопичувач Samsung T7 Shield обсягом 1 ТБ у прогумованому корпусі зі стандартом захисту IP65 (від води, пилу та падінь з висоти до 3 метрів) і швидкістю передачі даних до 1050 МБ/с.",
+    "specs": {
+      "Обсяг пам'яті": "1 ТБ (1000 ГБ)",
+      "Тип флеш-пам'яті": "Samsung V-NAND TLC (технологія PCIe NVMe)",
+      "Інтерфейс підключення": "USB 3.2 Gen 2 (10 Гбіт/с)",
+      "Швидкість послідовного читання": "До 1050 МБ/с",
+      "Швидкість послідовного запису": "До 1000 МБ/с",
+      "Захист корпусу": "IP65 (волого- та пилозахист), еластомерне покриття, стійкість до падінь з 3 м",
+      "Шифрування даних": "Апаратне 256-бітне шифрування AES (ПЗ Samsung Magician)",
+      "Сумісність": "Windows, macOS, Android, ігрові консолі, професійні відеокамери",
+      "Кабелі в комплекті": "2 кабелі: USB Type-C to Type-C та USB Type-C to Type-A",
+      "Габарити": "88 x 59 x 13 мм",
+      "Вага": "98 г",
+      "Колір": "Black (Чорний)"
+    },
+    "rating": 5,
+    "reviewsCount": 3,
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Бойко",
+        "rating": 5,
+        "date": "21.10.2026"
+      },
+      {
+        "id": 2,
+        "author": "Юлія Петренко",
+        "rating": 5,
+        "date": "15.10.2026"
+      },
+      {
+        "id": 3,
+        "author": "Володимир Поліщук",
+        "rating": 5,
+        "date": "19.11.2026"
+      }
+    ],
+    "filterAttributes": {
+      "Тип аксесуара": "Зовнішній SSD накопичувач",
+      "Обсяг накопичувача": "1 ТБ"
+    }
+  }
+]

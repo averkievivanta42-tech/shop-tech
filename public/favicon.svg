@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="460" viewBox="40 130 640 460">
+  <defs>
+    <linearGradient id="cyan" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#05D2D8"/>
+      <stop offset="0.52" stop-color="#00B8CB"/>
+      <stop offset="1" stop-color="#008FA9"/>
+    </linearGradient>
+    <linearGradient id="cyanShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00A7C1"/>
+      <stop offset="1" stop-color="#006F8C"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF7900"/>
+      <stop offset="1" stop-color="#FF5A00"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M54 482 L164 230 Q181 174 226 174 L274 174 Q306 174 329 205 L363 254 L505 190 Q527 174 551 174 L573 174 Q601 174 620 195 L657 234 L535 331 L486 281 L394 371 L347 294 L248 405 L209 467 Q195 482 169 482 Z" fill="url(#cyan)"/>
+    <path d="M247 284 L289 370 L362 295 L393 369 L505 258 L575 190 Q553 174 525 174 L505 174 Q482 174 462 192 L362 295 L313 225 Q291 191 270 180 Z" fill="#05C2D1" opacity="0.72"/>
+    <path d="M434 363 L564 247 L610 482 L522 482 Q501 482 496 461 L480 397 Q476 379 495 362 L507 350 L437 363 Z" fill="url(#cyanShade)" opacity="0.96"/>
+    <path d="M484 281 L535 331 L486 373 L439 363 Z" fill="#007F9D" opacity="0.78"/>
+    <path d="M657 149 L266 418 L359 418 L245 570 L477 377 L409 377 Z" fill="url(#orange)"/>
+  </g>
+</svg>
