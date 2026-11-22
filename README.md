@@ -98,7 +98,6 @@ npm run preview
 │   ├── megatrend_logo.svg
 │   └── style.css
 ├── index.html
-├── INSTRUCTION.md
 ├── package.json
 ├── README.md
 └── vite.config.js
