@@ -1,5 +1,5 @@
 <script setup>
-import { ref, reactive } from 'vue'
+import { ref, reactive, watch, onUnmounted } from 'vue'
 
 const props = defineProps({
   isOpen: {
@@ -44,6 +44,7 @@ const errors = reactive({
 const isSubmitting = ref(false)
 const orderSuccess = ref(false)
 const orderNumber = ref('')
+const submittedTotal = ref(0)
 
 function formatCurrency(amount) {
   return new Intl.NumberFormat('uk-UA').format(amount) + ' ₴'
@@ -77,7 +78,7 @@ function validatePhone() {
     return false
   }
   if (!phoneRegex.test(cleanPhone)) {
-    errors.phone = 'Формат: +380991234567'
+    errors.phone = 'Формат: +380ххххххххх'
     return false
   }
   errors.phone = ''
@@ -134,6 +135,7 @@ function handleSubmit() {
   setTimeout(() => {
     isSubmitting.value = false
     orderNumber.value = 'MT-' + Math.floor(10000 + Math.random() * 90000)
+    submittedTotal.value = props.finalTotal
     orderSuccess.value = true
 
     emit('orderSubmitted', {
@@ -148,6 +150,7 @@ function handleSubmit() {
 function handleClose() {
   if (orderSuccess.value) {
     orderSuccess.value = false
+    submittedTotal.value = 0
     form.fullName = ''
     form.phone = '+380'
     form.email = ''
@@ -161,11 +164,11 @@ function handleClose() {
 
 <template>
   <Transition name="order-modal">
-    <div v-if="isOpen" class="modal-wrap">
-      <div class="modal-backdrop" @click="handleClose"></div>
+    <div v-if="isOpen" class="modal-wrap" @wheel.self.prevent>
+      <div class="modal-backdrop" @click="handleClose" @wheel.prevent></div>
 
       <div class="modal-box">
-        <div class="modal-header">
+        <div class="modal-header" @wheel.prevent>
           <h2 class="modal-title">
             {{ orderSuccess ? 'Замовлення прийнято' : 'Оформлення замовлення' }}
           </h2>
@@ -281,13 +284,13 @@ function handleClose() {
           </form>
         </div>
 
-        <div v-else class="modal-body success-view">
+        <div v-else class="modal-body success-view" @wheel.prevent>
           <p class="success-num">Замовлення №{{ orderNumber }}</p>
           <p class="success-desc">
-            Дякуємо, <strong>{{ form.fullName }}</strong>! Замовлення в магазині <strong>МегаТренд</strong> на суму
-            <strong>{{ formatCurrency(finalTotal) }}</strong> успішно зареєстровано.
+            Дякуємо! Замовлення в магазині <strong>МегаТренд</strong> на суму
+            <strong>{{ formatCurrency(submittedTotal) }}</strong> успішно зареєстровано.
           </p>
-          <button type="button" class="submit-btn" @click="handleClose">
+          <button type="button" class="submit-btn success-btn" @click="handleClose">
             Повернутися до магазину
           </button>
         </div>
@@ -312,6 +315,7 @@ function handleClose() {
   inset: 0;
   background-color: rgba(10, 20, 40, 0.48);
   backdrop-filter: blur(3px);
+  touch-action: none;
 }
 
 .modal-box {
@@ -380,6 +384,7 @@ function handleClose() {
 .modal-body {
   padding: 20px;
   overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 .form {
@@ -471,6 +476,16 @@ function handleClose() {
   color: var(--text-secondary);
   margin-bottom: 22px;
   line-height: 1.55;
+}
+
+.success-btn {
+  width: 100%;
+  max-width: 320px;
+  padding: 0 32px;
+  margin: 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media (max-width: 520px) {

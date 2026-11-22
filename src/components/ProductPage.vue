@@ -73,6 +73,14 @@ watch(
   { immediate: true }
 )
 
+watch(isLightboxOpen, (open) => {
+  if (open) {
+    document.body.style.overflow = 'hidden'
+  } else {
+    document.body.style.overflow = ''
+  }
+})
+
 onMounted(() => {
   if (props.autoScrollReviews) {
     setTimeout(() => {
@@ -448,7 +456,7 @@ function handleImageError(e) {
     </div>
 
     <Transition name="lightbox">
-      <div v-if="isLightboxOpen" class="lightbox-overlay" @click="closeLightbox">
+      <div v-if="isLightboxOpen" class="lightbox-overlay" @click="closeLightbox" @wheel.prevent>
         <div class="lightbox-modal" @click.stop>
           <div class="lightbox-header">
             <div class="lightbox-title-wrap">

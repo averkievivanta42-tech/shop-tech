@@ -89,6 +89,31 @@ watch(searchQuery, (val) => {
   }
 })
 
+function handleModalWheel(e) {
+  const scrollable = e.target.closest('.modal-body, .cart-body')
+  if (scrollable && !scrollable.classList.contains('success-view')) {
+    const canScrollUp = e.deltaY < 0 && scrollable.scrollTop > 0
+    const canScrollDown =
+      e.deltaY > 0 && scrollable.scrollTop + scrollable.clientHeight < scrollable.scrollHeight - 1
+    if (canScrollUp || canScrollDown) {
+      return
+    }
+  }
+  e.preventDefault()
+}
+
+watch([isCartOpen, isCheckoutOpen], ([cartOpen, checkoutOpen]) => {
+  if (cartOpen || checkoutOpen) {
+    document.documentElement.style.overflow = 'hidden'
+    document.body.style.overflow = 'hidden'
+    window.addEventListener('wheel', handleModalWheel, { passive: false })
+  } else {
+    document.documentElement.style.overflow = ''
+    document.body.style.overflow = ''
+    window.removeEventListener('wheel', handleModalWheel)
+  }
+})
+
 onMounted(async () => {
   window.addEventListener('hashchange', syncRouteFromHash)
   await fetchProducts()
@@ -97,6 +122,9 @@ onMounted(async () => {
 
 onUnmounted(() => {
   window.removeEventListener('hashchange', syncRouteFromHash)
+  window.removeEventListener('wheel', handleModalWheel)
+  document.documentElement.style.overflow = ''
+  document.body.style.overflow = ''
 })
 
 function updateUrlHash(hash) {

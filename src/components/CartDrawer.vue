@@ -64,11 +64,11 @@ function handleApplyPromo() {
 
 <template>
   <Transition name="cart-drawer">
-    <div v-if="isOpen" class="cart-overlay">
-      <div class="cart-backdrop" @click="emit('close')"></div>
+    <div v-if="isOpen" class="cart-overlay" @wheel.self.prevent>
+      <div class="cart-backdrop" @click="emit('close')" @wheel.prevent></div>
 
       <aside class="cart-panel">
-        <div class="cart-header">
+        <div class="cart-header" @wheel.prevent>
           <div class="cart-title-wrap">
             <h2 class="cart-title">Кошик покупок</h2>
             <span v-if="cartCount > 0" class="cart-qty">{{ cartCount }} шт.</span>
@@ -127,7 +127,7 @@ function handleApplyPromo() {
           </div>
         </div>
 
-        <div v-if="items.length > 0" class="cart-footer">
+        <div v-if="items.length > 0" class="cart-footer" @wheel.prevent>
           <div class="totals">
             <div class="total-line">
               <span>Вартість товарів:</span>
@@ -166,6 +166,7 @@ function handleApplyPromo() {
   inset: 0;
   background-color: rgba(10, 20, 40, 0.45);
   backdrop-filter: blur(2px);
+  touch-action: none;
 }
 
 .cart-panel {
@@ -262,6 +263,7 @@ function handleApplyPromo() {
 .cart-body {
   flex: 1;
   overflow-y: auto;
+  overscroll-behavior: contain;
   padding: 16px 20px;
 }
 
